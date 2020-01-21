@@ -1,1 +1,1 @@
-# http://yanhao-wang.github.io
+# yanhao-wang.github.io
