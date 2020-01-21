@@ -1,0 +1,16 @@
+name: "Yanhao Wang"
+output_dir: "."
+navbar:
+  title: "Yanhao Wang"
+  left:
+    - text: "Home"
+      href: home.html
+    - text: "Research"
+      href: research.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
