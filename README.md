@@ -1,2 +1,1 @@
-# github.io
-my website
+# yanhao-wang.github.io
