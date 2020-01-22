@@ -3,11 +3,11 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/KSB_YanhaoWang_2018Fall.jpg" style="width:25%; border:3px solid; margin-right: 20px" align="left">
+<img src="images/KSB_YanhaoWang_2018Fall.jpg" style="width:25%; border:3px solid; margin-right: 20px" align="right">
 
 Hi! 
 
-I'm a second-year PhD student at [Business Economics and Public Policy](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml), [Kelley School of Business](https://kelley.iu.edu/), [Indiana University-Bloomington](https://indiana.edu/).
+I'm a second-year PhD student at the department of [Business Economics and Public Policy](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml), [Kelley School of Business](https://kelley.iu.edu/), [Indiana University-Bloomington](https://indiana.edu/).
 
 I got my Bachelor degree in Finance and Masters degree in Economics from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I was also an exchange student at [Smith School of Business](https://smith.queensu.ca/index.php), [Queen's University](https://www.queensu.ca/). 
 
