@@ -3,9 +3,9 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/KSB_YanhaoWang_2018Fall.jpg" style="width:25%; border:3px solid; margin-right: 20px" align="right">
+<img src="images/KSB_YanhaoWang_2018Fall.jpg" style="width:25%; border:3px solid; margin-left: 20px; margin-right: 20px" align="right">
 
-Hi! 
+Hi! Welcome to my website!
 
 I'm a second-year PhD student at the department of [Business Economics and Public Policy](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml), [Kelley School of Business](https://kelley.iu.edu/), [Indiana University-Bloomington](https://indiana.edu/).
 
