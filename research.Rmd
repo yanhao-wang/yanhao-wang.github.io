@@ -1,7 +1,7 @@
 ---
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="style.css" type="text/css">
 
 ### Working paper
 **Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger.**<br>

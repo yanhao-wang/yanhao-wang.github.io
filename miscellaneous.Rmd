@@ -1,0 +1,10 @@
+---
+---
+
+<link rel="stylesheet" href="style.css" type="text/css">
+
+I play badminton and soccer in my spare time. 
+
+My favorite badminton player is [Haifeng Fu](https://en.wikipedia.org/wiki/Fu_Haifeng). 
+
+My favorite football club is [Real Madrid](https://www.realmadrid.com/en). 

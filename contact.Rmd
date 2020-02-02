@@ -1,10 +1,10 @@
 ---
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="style.css" type="text/css">
 
-HH 7400<br>
+Hodge Hall, 7400<br>
 1309 E. 10th Street<br>
-Bloomington IN<br>
+Bloomington, IN<br>
 47405<br>
 [yw113.iu.edu](yw113.iu.edu)<br>
