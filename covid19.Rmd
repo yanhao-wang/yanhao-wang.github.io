@@ -1,0 +1,35 @@
+---
+---
+
+<link rel="stylesheet" href="style.css" type="text/css">
+
+* 从今天(3/15/2020, Sun)起，我开始记录关于疫情的消息，就当写日记。
+  + 我在这里追踪案例数量: https://coronavirus.1point3acres.com
+  + 我通过邮件和这里关注学校政策变化: https://coronavirus.iu.edu/
+  + 我还通过WSJ, NYTimes和Bloomberg的breaking news推送来关注最新情况发展，虽然这些媒体都很西方且在中国不受欢迎，但搜集信息不代表着盲目相信。
+  
+* **Before 3/15/2020**
+  + 疫情在美国多地爆发，学校停课，检测能力低下，医疗资源告急。川普宣布进入national emergency状态。美股大跌。
+  + 总结的时候对欧洲的形势不太关心了，病毒乱杀，无药可救。
+  
+* **3/15/2020**
+  + The Federal Reserve slashed its benchmark interest rate to near zero Sunday and said it would buy $700 billion in Treasury and mortgage-backed securities in an urgent response to the new coronavirus pandemic. 
+  + IU将春假延长一周至3月底，同时将学期余下课程全部调至网课。IU Housing将关闭，学生原则上需要回到身份国或者自觅住处。部分学生有困难可以petition.
+  
+* **3/16/2020**
+  + 周一开始，美股再次暴跌触发熔断，已经是疫情以来第三次，全天跌了约13%。
+  + New Jersey带头开始curfew，但white house否认要全国curfew。讲真，curfew对遏制病毒传播是好事，但对社会经济影响也大，且容易激起逆反。
+  + At least 6 bay area counties ordered to shelter-in-place.
+  + 加拿大禁止非公民入境，美国公民暂时除外（有点搞笑，难道美国人现在不是最危险的之一么？）
+  + 川普发推说COVID-19是Chinese Virus，激起民愤！
+  
+* **3/17/2020**
+  + 收到了IU Housing petition的邮件通知，花了很多时间跟老师同学沟通怎么写才能保证通过概率最大化。submit之后发现petition的人数比想象的多，做好了最坏的打算。
+  + 川普呼吁各州自谋出路，各州黑人问号。
+
+* **3/18/2020**
+  + 油价和美股继续跌，下午再次触发熔断，第四次，和巴菲特的身价差距正快速减少。
+  + A naval hospital ship is heading to NYC to help free 1000 beds for patients (美国版方舱).
+  + The senate passed the House's coronavirus relief bill which will provide free testing, paid sick leave, food assistance and financial help.
+
+
