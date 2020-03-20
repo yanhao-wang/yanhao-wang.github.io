@@ -3,12 +3,14 @@
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-I play badminton and soccer in my spare time. 
-
-My favorite badminton player is [Haifeng Fu](https://en.wikipedia.org/wiki/Fu_Haifeng). 
-
+I play badminton and soccer in my spare time. \
+My favorite badminton player is [Haifeng Fu](https://en.wikipedia.org/wiki/Fu_Haifeng). \
 My favorite football club is [Real Madrid](https://www.realmadrid.com/en). 
 
 
-I also have a 微信公众号 to share some thoughts on life and research. You can find it by searching "**读博掉发问题不大**" in WeChat.
+I also have a 微信公众号 to share some thoughts on life and research. \
+You can find it by searching "**读博掉发问题不大**" in WeChat or scanning the following QR code: \
 
+<img src="images/wechat_mp_code.png" style="width:66%; margin-left: 20px; margin-right: 20px" align="left">
+
+<!-- ![](images/wechat_mp_code.png) -->
