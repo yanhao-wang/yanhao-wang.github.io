@@ -13,7 +13,7 @@ I got my Bachelor degree in Finance and Masters degree in Economics from [Antai 
 
 I'm doing research at the intersection of empirical industrial organization and financial markets. I'm also interested in economic development and applied econometrics.
 
-Starting 3/15/2020, I created a new tab "COVID-19 Updates" to document the evolving situation from my perspective. It could be useful if I can survive this, then look back and try to have some research ideas.
+Starting 3/15/2020, I created a new tab ["COVID-19 Updates"](covid19.html) to document the evolving situation from my perspective. It could be useful if I can survive this, then look back and try to have some research ideas.
 
 <!-- My CV is available [here](files/CV_YanhaoWang_May2019.pdf). -->
 
