@@ -17,7 +17,7 @@
 
 &nbsp; 
   
-***Timeline***
+***Timeline*** (last updated: `r Sys.time()`)
 
 * **Before 3/15/2020**
   + 疫情在美国多地爆发，学校停课，检测能力低下，医疗资源告急。川普宣布进入national emergency状态。美股大跌。
@@ -32,7 +32,7 @@
   + New Jersey带头开始curfew，但white house否认要全国curfew。讲真，curfew对遏制病毒传播是好事，但对社会经济影响也大，且容易激起逆反。
   + At least 6 bay area counties ordered to shelter-in-place.
   + 加拿大禁止非公民入境，美国公民暂时除外（有点搞笑，难道美国人现在不是最危险的之一么？）
-  + 川普发推说COVID-19是Chinese Virus，激起民愤！
+  + 川普发推说COVID-19是Chinese Virus，继续甩锅，煽动仇恨，激起民愤！
   
 * **3/17/2020**
   + 收到了IU Housing petition的邮件通知，花了很多时间跟老师同学沟通怎么写才能保证通过概率最大化。submit之后发现petition的人数比想象的多，做好了最坏的打算。
@@ -49,5 +49,12 @@
   + 新闻说Monroe county有一例确诊，在IU health center就医，3/15就已经tested positive了，却一直没有出现在ISDH的统计里。稍晚时候，IU Health Bloomington又出来辟谣说这哥们儿不是Monroe county的。这些闹剧更加表明老美这些乱七八糟的统计口径和丢人的检测水平根本不能反映真实情况。病毒一直就在你身边。
 
 * **3/20/2020**
-  + 多州建议居民stay home或者限制居民出行，Indiana和IU也有同样的要求，最搞笑的是每次都是“保持现状until...”。停课也是，要停就停嘛，还“上到这周结束...”。一种后果就是造成大家在近期疯狂扎堆，混乱的预期管理使得政策效果适得其反。
+  + 多州建议居民stay at home或者限制居民出行。Indiana和IU也有同样的要求，但最搞笑的是每次都是“保持现状until...”。停课也是，要停就停嘛，还“上到这周结束...”。一种后果就是造成大家在近期疯狂扎堆，混乱的预期管理使得政策效果适得其反。
   + U.S. extends individual tax fillig deadline from 4/15 to 7/15.
+  + Monroe county health department爆出IU有学生在3/15就已经确诊（[报道](https://news.iu.edu/stories/2020/03/iu/releases/20-student-tests-positive-for-covid-19-coronavirus.html)），校长还一直发邮件说没有confirmed cases，说什么狗屁人间大爱同舟共济。一封啥信息量都没有的邮件，president发了provost转，provost转了dean转，完全无卵用。
+  + 终于收到RPS邮件通知说可以继续留守校内公寓。
+  
+* **3/21/2020**
+  + Trump Administration都是忙于出台各种各样刺激经济的政策，在遏制疫情方面毫无作为只会甩锅。
+  
+
