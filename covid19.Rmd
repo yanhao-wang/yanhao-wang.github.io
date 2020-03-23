@@ -4,9 +4,10 @@
 <link rel="stylesheet" href="style.css" type="text/css">
 
 * Something less depressing:
-  + [第21期香樟经济学（北京）云Seminar：新冠肺炎疫情影响](https://mp.weixin.qq.com/s/uHiyYJdIzwF9e5omYPIDCQ)
   + [《发哨子的人》Stata版](https://mp.weixin.qq.com/s/OQgZZ0hOFPNC8-dHlE0jKw)
+  + [第21期香樟经济学（北京）云Seminar：新冠肺炎疫情影响](https://mp.weixin.qq.com/s/uHiyYJdIzwF9e5omYPIDCQ)
   + [美国检测和确诊数据可信吗？](https://mp.weixin.qq.com/s/fqQ-YIdqBZ9klaos2MOQtg)
+  + [截止3/20各类资产价格对疫情的反应（文字版event study）](https://mp.weixin.qq.com/s/TEhY3rPWEonPX0gByA-QhQ)
 
 &nbsp;  
 
@@ -57,4 +58,6 @@
 * **3/21/2020**
   + Trump Administration都是忙于出台各种各样刺激经济的政策，在遏制疫情方面毫无作为只会甩锅。
   
-
+* **3/22/2020**
+  + 非常时期的周天，全美单日确诊超7000。议会和政府里都有人感染，他们能受检测，普通百姓却却不能，Trump说这就是人生。
+  + Senate Democrats blocked action on a sweeping economic rescue plan, sending lawmakers back to the drawing board.
