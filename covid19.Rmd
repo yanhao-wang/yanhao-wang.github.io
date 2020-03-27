@@ -3,17 +3,18 @@
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-* Something less depressing:
+* Research-related:
   + [《发哨子的人》Stata版](https://mp.weixin.qq.com/s/OQgZZ0hOFPNC8-dHlE0jKw)
   + [第21期香樟经济学（北京）云Seminar：新冠肺炎疫情影响](https://mp.weixin.qq.com/s/uHiyYJdIzwF9e5omYPIDCQ)
   + [美国检测和确诊数据可信吗？](https://mp.weixin.qq.com/s/fqQ-YIdqBZ9klaos2MOQtg)
   + [截止3/20各类资产价格对疫情的反应（文字版event study）](https://mp.weixin.qq.com/s/TEhY3rPWEonPX0gByA-QhQ)
   + [Guns, Groceries and News: What Sells in a Pandemic—and Doesn’t](https://www.wsj.com/articles/groceries-guns-and-news-what-sells-in-a-pandemicand-what-doesnt-11585042200)
-
+  + To demostrate the severity of this crisis and motivate the crisis-related studies: [疫情下的美国困局](https://m.ftchinese.com/story/001086962?adchannelID=&full=y).
+  
 &nbsp;  
 
 * 从今天(3/15/2020, Sun)起，我开始记录关于疫情的消息，就当写日记。
-  + 我在这里追踪案例数量: https://coronavirus.1point3acres.com
+  + 我在这里追踪案例数量: https://coronavirus.1point3acres.com （据说CDC也用这个数据源）
   + 我通过邮件和这里关注学校政策变化: https://coronavirus.iu.edu
   + 我还通过[WSJ](https://www.wsj.com), [NYTimes](https://www.nytimes.com)和[Bloomberg](https://www.bloomberg.com)的breaking news推送来关注最新情况发展，虽然这些媒体都很西方且在中国不受欢迎，但搜集信息不代表着盲目相信。
 
@@ -76,3 +77,11 @@
 * **3/25/2020**
   + 乱七八糟名人明星确诊的新闻一大把，病毒面前人人平等，不一一列举。
   + The White House and the senate agreed on a $2 trillion economic stimulus plan, the largest in the U.S. history.
+  
+* **3/26/2020**
+  + U.S. jobless claims surge to a record 3.28 million.
+  + 全美确诊人数超中国。一个奇特的现象：WSJ(82404), NYTimes(81321)和Bloomberg(80703)三家媒体曝出的数字都不一样，再次反映了数据统计的偏差。但是确诊人数剧增也意味着检测能力的上升，或许是个好事，只希望不只是纽约州的检测能力在提升。
+  
+* **3/27/2020**
+  + 英国首相Boris Johnson感染，群体性感染取得重大进展。
+  + 特朗普跟习近平通电话，友好切磋了一波。
