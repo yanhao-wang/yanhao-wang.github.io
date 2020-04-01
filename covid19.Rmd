@@ -3,17 +3,27 @@
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-* Research-related:
+* **Epidemic-related researches/stories**:
   + [《发哨子的人》Stata版](https://mp.weixin.qq.com/s/OQgZZ0hOFPNC8-dHlE0jKw)
   + [第21期香樟经济学（北京）云Seminar：新冠肺炎疫情影响](https://mp.weixin.qq.com/s/uHiyYJdIzwF9e5omYPIDCQ)
   + [美国检测和确诊数据可信吗？](https://mp.weixin.qq.com/s/fqQ-YIdqBZ9klaos2MOQtg)
   + [截止3/20各类资产价格对疫情的反应（文字版event study）](https://mp.weixin.qq.com/s/TEhY3rPWEonPX0gByA-QhQ)
   + [Guns, Groceries and News: What Sells in a Pandemic—and Doesn’t](https://www.wsj.com/articles/groceries-guns-and-news-what-sells-in-a-pandemicand-what-doesnt-11585042200)
-  + To demostrate the severity of this crisis and motivate the crisis-related studies: [疫情下的美国困局](https://m.ftchinese.com/story/001086962?adchannelID=&full=y).
+  + [疫情下的美国困局](https://m.ftchinese.com/story/001086962?adchannelID=&full=y)
+  + [The Virus of Fear: The Political Impact of Ebola in the U.S.](https://www.nber.org/papers/w26897?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg29)
+  + [Human Mobility Restrictions and the Spread of the Novel Coronavirus (2019-nCoV) in China](https://www.nber.org/papers/w26906?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg29)
+  + [“SARS”过后空气污染的负面影响下降了吗?来自香港的证据](https://mp.weixin.qq.com/s/BnKZiEgg4UvspQDeRtLh0w)
   
 &nbsp;  
 
-* 从今天(3/15/2020, Sun)起，我开始记录关于疫情的消息，就当写日记。
+* Some resources for **learning from home**:
+  + [online seminars recommended by AEA](https://www.aeaweb.org/resources/online-seminars)
+  + [Virtual Economics](https://virtual-econ.info/). They have a very cool aggregated calendar for all kinds of virtual econ/finance seminars.
+  + [Finance in the Cloud](https://www.colorado.edu/business/finance-cloud), organized by Tony Cookson (Univ of Colorado Boulder).
+
+&nbsp;  
+
+* 从今天(3/15/2020, Sun)起，我开始记录关于疫情的消息，就当写**日记**。
   + 我在这里追踪案例数量: https://coronavirus.1point3acres.com
   + 我通过邮件和这里关注学校政策变化: https://coronavirus.iu.edu
   + 我还通过[WSJ](https://www.wsj.com), [NYTimes](https://www.nytimes.com)和[Bloomberg](https://www.bloomberg.com)的breaking news推送来关注最新情况发展，虽然这些媒体都很西方且在中国不受欢迎，但搜集信息不代表着盲目相信。
@@ -94,5 +104,11 @@
 * **3/29/2020**
   + Trump administration extends social-distancing guidelines through April 30.
  
-* **3/31/2020**
+* **3/30/2020**
   + 道指回升700点，油价仍然跌跌不休。
+  
+* **3/31/2020**
+  + 美国这边没啥大新闻，中国高考延期。
+  
+* **3/31/2020**
+  + 全美确诊人数超20万，股价油价萎靡不振。
