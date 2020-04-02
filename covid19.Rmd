@@ -3,6 +3,10 @@
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
+<center> <font size="6"> <span style="color:red"> **保命为主, 学术为辅** </span> </font> </center>
+
+&nbsp;  
+
 * **Epidemic-related researches/stories**:
   + [《发哨子的人》Stata版](https://mp.weixin.qq.com/s/OQgZZ0hOFPNC8-dHlE0jKw)
   + [第21期香樟经济学（北京）云Seminar：新冠肺炎疫情影响](https://mp.weixin.qq.com/s/uHiyYJdIzwF9e5omYPIDCQ)
@@ -17,7 +21,7 @@
 &nbsp;  
 
 * Some resources for **learning from home**:
-  + [online seminars recommended by AEA](https://www.aeaweb.org/resources/online-seminars)
+  + [Online seminars recommended by AEA](https://www.aeaweb.org/resources/online-seminars).
   + [Virtual Economics](https://virtual-econ.info/). They have a very cool aggregated calendar for all kinds of virtual econ/finance seminars.
   + [Finance in the Cloud](https://www.colorado.edu/business/finance-cloud), organized by Tony Cookson (Univ of Colorado Boulder).
 
