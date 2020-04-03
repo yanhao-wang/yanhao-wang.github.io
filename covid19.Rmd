@@ -17,6 +17,7 @@
   + [The Virus of Fear: The Political Impact of Ebola in the U.S.](https://www.nber.org/papers/w26897?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg29)
   + [Human Mobility Restrictions and the Spread of the Novel Coronavirus (2019-nCoV) in China](https://www.nber.org/papers/w26906?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg29)
   + [“SARS”过后空气污染的负面影响下降了吗?来自香港的证据](https://mp.weixin.qq.com/s/BnKZiEgg4UvspQDeRtLh0w)
+  + [疫情传播曾经如何影响美国政治](https://mp.weixin.qq.com/s/tmi_Si77jiATHo9MeB-87g)
   
 &nbsp;  
 
@@ -121,3 +122,14 @@
   + 上周，全美共有665万人申领失业保险, unprecedented。
   + 全球确诊超百万。
   + U.S. is expected to urge all Americans to wear cloth masks (seriously?) in public.
+  
+* **4/3/2020**
+  + 中国人民银行决定对中小银行定向降准，4月15日和5月15日两次分别下调0.5个百分点，另外决定自4月7日起将金融机构在央行超额存款准备金利率从0.72%下调至0.35%。
+  
+  
+&nbsp; 
+   
+**Monetary and Fiscal respones by the U.S. government since March** (borrowed from Campbell Harvey):   
+<img src="images/covid19_monetary.jpeg" style="width:49.5%; margin-left: 1px; margin-right: 1px" align="left">
+<img src="images/covid19_fiscal.jpeg" style="width:49.5%; margin-left: 1px; margin-right: 1px" align="right">
+   
