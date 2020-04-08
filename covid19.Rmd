@@ -18,6 +18,8 @@
   + [Human Mobility Restrictions and the Spread of the Novel Coronavirus (2019-nCoV) in China](https://www.nber.org/papers/w26906?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg29)
   + [“SARS”过后空气污染的负面影响下降了吗?来自香港的证据](https://mp.weixin.qq.com/s/BnKZiEgg4UvspQDeRtLh0w)
   + [疫情传播曾经如何影响美国政治](https://mp.weixin.qq.com/s/tmi_Si77jiATHo9MeB-87g)
+  + [Predicting the Wave of Covid-19 UI Claims](https://sites.google.com/site/randrewbutters/research/using-the-eye-of-the-storm-to-predict-the-wave-of-ui-claims)
+  + [A list of NBER working papers (April 6th) that study COVID-19 pandemic](https://www.one-tab.com/page/XV5qtnsaTvq2_1YxJ2EFOA)
   
 &nbsp;  
 
@@ -135,6 +137,15 @@
 * **4/5/2020**
   + 已经对一天确诊3万例这种事情感到麻木。
   + Boris Johnson住院，病毒面前人人平等。
+
+* **4/6/2020**
+  + Boris Johnson进了ICU。
+  + 全美死亡超一万例。
+  + 投资者稍变乐观，道指升超7%。
+  
+* **4/7/2020**
+  + 武汉解封。
+  + Companies Offer Critical Coronavirus Supplies the Government Can’t Buy.
   
 &nbsp; 
    
