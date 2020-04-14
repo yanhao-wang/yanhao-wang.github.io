@@ -19,7 +19,9 @@
   + [“SARS”过后空气污染的负面影响下降了吗?来自香港的证据](https://mp.weixin.qq.com/s/BnKZiEgg4UvspQDeRtLh0w)
   + [疫情传播曾经如何影响美国政治](https://mp.weixin.qq.com/s/tmi_Si77jiATHo9MeB-87g)
   + [Predicting the Wave of Covid-19 UI Claims](https://sites.google.com/site/randrewbutters/research/using-the-eye-of-the-storm-to-predict-the-wave-of-ui-claims)
-  + [A list of NBER working papers (April 6th) that study COVID-19 pandemic](https://www.one-tab.com/page/XV5qtnsaTvq2_1YxJ2EFOA)
+  + A list of NBER working papers that study COVID-19 pandemic:
+    + [April 6](https://www.one-tab.com/page/XV5qtnsaTvq2_1YxJ2EFOA)
+    + [April 13](https://www.one-tab.com/page/RVZ7McahT06FZN-pTzL0Yg)
   
 &nbsp;  
 
@@ -154,6 +156,18 @@
   + U.S. jobless claims top 6.6M in a third straight week. The accumulated shutdown reached 16.8M.
   + Amazon仓库和西南航空机组都曝出有群体疫情。
   + Fed announces a $2.3 trillion aid to small businesses as well as state and local governments.
+ 
+* **4/10/2020**
+  + 全美确诊人数超50万。 
+  
+* **4/11/2020**
+  + 美国死亡病例逾2万，超过意大利成为因病毒死亡人数最多的国家。
+  
+* **4/12/2020**
+  + Apple和Google可能合作推美国健康码。
+  
+* **4/13/2020**
+  + 数据稍有起色，美国社会已经在计划复工，各种选举消息和商业新闻重新回到大众视野。
   
 &nbsp; 
    
