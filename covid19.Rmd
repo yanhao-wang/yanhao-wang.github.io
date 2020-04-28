@@ -19,11 +19,12 @@
   + [“SARS”过后空气污染的负面影响下降了吗?来自香港的证据](https://mp.weixin.qq.com/s/BnKZiEgg4UvspQDeRtLh0w)
   + [疫情传播曾经如何影响美国政治](https://mp.weixin.qq.com/s/tmi_Si77jiATHo9MeB-87g)
   + [Predicting the Wave of Covid-19 UI Claims](https://sites.google.com/site/randrewbutters/research/using-the-eye-of-the-storm-to-predict-the-wave-of-ui-claims)
-  + A list of NBER working papers that study COVID-19 pandemic:
-    + [April 6](https://www.one-tab.com/page/XV5qtnsaTvq2_1YxJ2EFOA)
-    + [April 13](https://www.one-tab.com/page/RVZ7McahT06FZN-pTzL0Yg)
-    + [April 20](https://www.one-tab.com/page/rGAtpaE2SRasLFXqYFMAdg)
   + [A tracker of trackers: COVID-19 policy responses and data](https://lukaslehner.github.io/covid19policytrackers/)
+  + A list of NBER working papers that study COVID-19 pandemic:
+  + [April 6](https://www.one-tab.com/page/XV5qtnsaTvq2_1YxJ2EFOA)
+  + [April 13](https://www.one-tab.com/page/RVZ7McahT06FZN-pTzL0Yg)
+  + [April 20](https://www.one-tab.com/page/rGAtpaE2SRasLFXqYFMAdg)
+  + [April 27](https://www.one-tab.com/page/knPf8u0BREyYapo-ekMUsA)
   
 &nbsp;  
 
@@ -203,6 +204,26 @@
   
 * **4/22/2020**
   + 收到了来自祖国的健康包，捡空投路上发现人不要太多，天气好全都憋不住了。
+
+* **4/23/2020**
+  + About 4.4M Americans filed for unemployment last week, bringing the total for the past five weeks to over 26M.
+  + The House passed a $484 billion coronavirus relief package to replenish a depleted small-business loan program and fund hospitals and testing.
+  
+* **4/24/2020**
+  + 全美确诊超90万， 死亡超5万。
+
+* **4/25/2020**
+  + (旧闻) 之前有消息说Remdesivir试验结果不理想，Moderna疫苗进入了二期临床，川普支招人体照射紫外线注射消毒水，真是迷惑行为大赏。
+ 
+* **4/26/2020**
+  + 加班加点都不行，游行示威第一名。
+  
+* **4/27/2020**
+  + 全美确诊破百万。
+  + Texas, Ohio and other states took steps to ease lockdown orders and reopen their battered economies.
+  
+* **4/28/2020**
+  + meat-processing industry员工感染，多地肉慌，引发担忧。Trump to order meat processing plants to stay open.
   
 &nbsp; 
    
