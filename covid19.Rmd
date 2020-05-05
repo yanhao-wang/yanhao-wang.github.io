@@ -20,12 +20,16 @@
   + [疫情传播曾经如何影响美国政治](https://mp.weixin.qq.com/s/tmi_Si77jiATHo9MeB-87g)
   + [Predicting the Wave of Covid-19 UI Claims](https://sites.google.com/site/randrewbutters/research/using-the-eye-of-the-storm-to-predict-the-wave-of-ui-claims)
   + [A tracker of trackers: COVID-19 policy responses and data](https://lukaslehner.github.io/covid19policytrackers/)
-  + A list of NBER working papers that study COVID-19 pandemic:
+
+&nbsp;  
+
+* **A list of NBER working papers that study COVID-19 pandemic:**
   + [April 6](https://www.one-tab.com/page/XV5qtnsaTvq2_1YxJ2EFOA)
   + [April 13](https://www.one-tab.com/page/RVZ7McahT06FZN-pTzL0Yg)
   + [April 20](https://www.one-tab.com/page/rGAtpaE2SRasLFXqYFMAdg)
   + [April 27](https://www.one-tab.com/page/knPf8u0BREyYapo-ekMUsA)
-  
+  + [May 4](https://www.one-tab.com/page/e3MpO3YsR9iRVdAL74k-ug)
+
 &nbsp;  
 
 * Some resources for **learning from home**:
@@ -40,8 +44,18 @@
   + 我通过邮件和这里关注学校政策变化: https://coronavirus.iu.edu
   + 我还通过[WSJ](https://www.wsj.com), [NYTimes](https://www.nytimes.com)和[Bloomberg](https://www.bloomberg.com)的breaking news推送来关注最新情况发展，虽然这些媒体都很西方且在中国不受欢迎，但搜集信息不代表着盲目相信。
 
+* 从今天(5/3/2020)起改为每周日更新。
+
 &nbsp; 
-  
+   
+**Monetary and Fiscal respones by the U.S. government since March** (borrowed from Campbell Harvey):   
+<img src="images/covid19_monetary.jpeg" style="width:50%; margin-left: 1px; margin-right: 1px" align="center">
+<img src="images/covid19_fiscal.jpeg" style="width:55%; margin-left: 1px; margin-right: 1px" align="center">
+
+(Note: policies since May not included above.) 
+
+&nbsp; 
+
 ***Timeline*** (last updated: `r Sys.time()`)
 
 * **Before 3/15/2020**
@@ -238,10 +252,7 @@
   
 * **5/2/2020**
   + 都在关注金正恩和巴菲特。
-  
-&nbsp; 
-   
-**Monetary and Fiscal respones by the U.S. government since March** (borrowed from Campbell Harvey):   
-<img src="images/covid19_monetary.jpeg" style="width:49.5%; margin-left: 1px; margin-right: 1px" align="left">
-<img src="images/covid19_fiscal.jpeg" style="width:49.5%; margin-left: 1px; margin-right: 1px" align="right">
-   
+
+* **5/3/2020 ~ 5/10/2020** 
+  + TBA
+ 
