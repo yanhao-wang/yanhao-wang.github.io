@@ -5,7 +5,33 @@
 
 <center> <font size="6"> <span style="color:red"> **保命为主, 学术为辅** </span> </font> </center>
 
+Starting 3/15/2020, I created a new tab ["COVID-19 Updates"](covid19.html) to document the evolving situation from my perspective. It could be useful if I can survive this, then look back and try to have some research ideas.
+
+* 从今天(3/15/2020, Sun)起，我开始记录关于疫情的消息，就当写**日记**。
+  + 我在这里追踪案例数量: https://coronavirus.1point3acres.com
+  + 我通过邮件和这里关注学校政策变化: https://coronavirus.iu.edu
+  + 我还通过[WSJ](https://www.wsj.com), [NYTimes](https://www.nytimes.com)和[Bloomberg](https://www.bloomberg.com)的breaking news推送来关注最新情况发展，虽然这些媒体都很西方且在中国不受欢迎，但搜集信息不代表着盲目相信。
+
+* 大家已经习以为常，陆续复工，从5/3/2020起不再更新，所谓跟风研究也不再潮流，该干嘛干嘛。
+
 &nbsp;  
+
+* **An incomplete list of NBER working papers that study COVID-19 pandemic:**
+  + [April 6](https://www.one-tab.com/page/XV5qtnsaTvq2_1YxJ2EFOA)
+  + [April 13](https://www.one-tab.com/page/RVZ7McahT06FZN-pTzL0Yg)
+  + [April 20](https://www.one-tab.com/page/rGAtpaE2SRasLFXqYFMAdg)
+  + [April 27](https://www.one-tab.com/page/knPf8u0BREyYapo-ekMUsA)
+  + [May 4](https://www.one-tab.com/page/e3MpO3YsR9iRVdAL74k-ug)
+  + [May 11](https://www.one-tab.com/page/EOMEpdsNSB2mO_JMvatuYw)
+
+&nbsp;  
+
+* Some resources for **learning from home**:
+  + [Online seminars recommended by AEA](https://www.aeaweb.org/resources/online-seminars).
+  + [Virtual Economics](https://virtual-econ.info/). They have a very cool aggregated calendar for all kinds of virtual econ/finance seminars.
+  + [Finance in the Cloud](https://www.colorado.edu/business/finance-cloud), organized by Tony Cookson (Univ of Colorado Boulder).
+
+&nbsp; 
 
 * **Epidemic-related researches/stories**:
   + [《发哨子的人》Stata版](https://mp.weixin.qq.com/s/OQgZZ0hOFPNC8-dHlE0jKw)
@@ -23,30 +49,6 @@
 
 &nbsp;  
 
-* **A list of NBER working papers that study COVID-19 pandemic:**
-  + [April 6](https://www.one-tab.com/page/XV5qtnsaTvq2_1YxJ2EFOA)
-  + [April 13](https://www.one-tab.com/page/RVZ7McahT06FZN-pTzL0Yg)
-  + [April 20](https://www.one-tab.com/page/rGAtpaE2SRasLFXqYFMAdg)
-  + [April 27](https://www.one-tab.com/page/knPf8u0BREyYapo-ekMUsA)
-  + [May 4](https://www.one-tab.com/page/e3MpO3YsR9iRVdAL74k-ug)
-
-&nbsp;  
-
-* Some resources for **learning from home**:
-  + [Online seminars recommended by AEA](https://www.aeaweb.org/resources/online-seminars).
-  + [Virtual Economics](https://virtual-econ.info/). They have a very cool aggregated calendar for all kinds of virtual econ/finance seminars.
-  + [Finance in the Cloud](https://www.colorado.edu/business/finance-cloud), organized by Tony Cookson (Univ of Colorado Boulder).
-
-&nbsp;  
-
-* 从今天(3/15/2020, Sun)起，我开始记录关于疫情的消息，就当写**日记**。
-  + 我在这里追踪案例数量: https://coronavirus.1point3acres.com
-  + 我通过邮件和这里关注学校政策变化: https://coronavirus.iu.edu
-  + 我还通过[WSJ](https://www.wsj.com), [NYTimes](https://www.nytimes.com)和[Bloomberg](https://www.bloomberg.com)的breaking news推送来关注最新情况发展，虽然这些媒体都很西方且在中国不受欢迎，但搜集信息不代表着盲目相信。
-
-* 从今天(5/3/2020)起改为每周日更新。
-
-&nbsp; 
    
 **Monetary and Fiscal respones by the U.S. government since March** (borrowed from Campbell Harvey):   
 <img src="images/covid19_monetary.jpeg" style="width:50%; margin-left: 1px; margin-right: 1px" align="center">
