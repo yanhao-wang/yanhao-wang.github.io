@@ -11,8 +11,8 @@ navbar:
       href: resource.html      
     - text: "Miscellaneous"
       href: miscellaneous.html
-    - text: "COVID-19 Updates"
-      href: covid19.html
+#    - text: "COVID-19 Updates"
+#      href: covid19.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
