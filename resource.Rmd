@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="style.css" type="text/css">
   
-* **Coding**:
+* **<span style="color:blue">Coding<span>**:
   + STATA:
     + [A tutorial](http://geocenter.github.io/StataTraining/)
     + [Example graphs](https://www.stata.com/features/example-graphs/)
@@ -26,12 +26,12 @@
 
   
   
-&nbsp; 
-
-* **Data**:
-  + NBER data [collection](https://data.nber.org/data/)
-  
 &nbsp;  
 
-* **Presentation**:
+* **<span style="color:blue">Data<span>**:
+  + NBER data [collection](https://data.nber.org/data/)
+  
+&nbsp;   
+
+* **<span style="color:blue">Presentation<span>**:
   + ["How to give an applied micro talk"](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf) by Jesse M. Shapiro

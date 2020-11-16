@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-### Working paper
+### <span style="color:blue">Working papers<span>
 **Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger**<br>
 with Patrick McCarthy and Chun-Yu Ho<br>
 June 2020, revised and resubmitted.
@@ -15,7 +15,9 @@ May 2019.
 with Chun-Yu Ho, Dan Li and Peng Wang.<br> 
 Nov 2017.
 
-### Selected publication
+&nbsp; 
+
+### <span style="color:blue">Publications<span>
 Ho, Chun-Yu, McCarthy, Patrick, and **Wang, Yanhao** (2020). Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China. *Research in Transportation Economics*, 83.
 
 **Wang, Yanhao** (2017). [Government-Firm Collusion, Environmental Regulation and Firm's Total Factor Productivity](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=JJLL201711007&v=yhAvitVXs%25mmd2Bz1TQLKwNKht8mCBW64t1cBbG6K8YAYpvzxPe%25mmd2BCGjtCCuJud840TYOm). *Economic Theory and Business Management*, 2017(11): 58-71 (in Chinese).
