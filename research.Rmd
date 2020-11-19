@@ -18,7 +18,7 @@ Nov 2017.
 &nbsp; 
 
 ### <span style="color:blue">Publications<span>
-Ho, Chun-Yu, McCarthy, Patrick, and **Wang, Yanhao** (2020). Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China. *Research in Transportation Economics*, 83.
+Ho, Chun-Yu, McCarthy, Patrick, and **Wang, Yanhao** (2020). [Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China](https://www.sciencedirect.com/science/article/pii/S0739885920301943?dgcid=coauthor). *Research in Transportation Economics*.
 
 **Wang, Yanhao** (2017). [Government-Firm Collusion, Environmental Regulation and Firm's Total Factor Productivity](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=JJLL201711007&v=yhAvitVXs%25mmd2Bz1TQLKwNKht8mCBW64t1cBbG6K8YAYpvzxPe%25mmd2BCGjtCCuJud840TYOm). *Economic Theory and Business Management*, 2017(11): 58-71 (in Chinese).
 
