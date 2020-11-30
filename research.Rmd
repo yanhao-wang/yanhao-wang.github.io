@@ -4,6 +4,9 @@
 <link rel="stylesheet" href="style.css" type="text/css">
 
 ### <span style="color:blue">Working papers<span>
+**Estimating Deposit Switch Cost from Failed Bank Acquisitions**<br>
+New draft coming soon.
+
 **What Happens Before New Banks Come to Town? Strategic Entry Deterrence in China’s Banking Market**<br>
 May 2019.
 
