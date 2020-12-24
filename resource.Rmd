@@ -35,3 +35,8 @@
 
 * **<span style="color:blue">Presentation<span>**:
   + ["How to give an applied micro talk"](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf) by Jesse M. Shapiro
+  
+  
+&nbsp;
+
+*Some more on my [GitHub repositories](https://github.com/yanhao-wang).*
