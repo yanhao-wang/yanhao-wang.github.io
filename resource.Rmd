@@ -15,7 +15,10 @@
     + [knitr](https://kbroman.org/knitr_knutshell/)
     + [Dealing with large data sets](https://rstudio-pubs-static.s3.amazonaws.com/72295_692737b667614d369bd87cb0f51c9a4b.html)
   + Python:
-    + [Quantitative Economics with Python](https://python.quantecon.org) by Thomas Sargent and John Stachurski
+    + [Quantitative Economics with Python](https://python.quantecon.org)
+    + [Running a Jupyter notebook from a remote server](https://ljvmiranda921.github.io/notebook/2018/01/31/running-a-jupyter-notebook/)
+  + Supercomputer at IU:
+    + [Slurm](https://kb.iu.edu/d/awrz)
   + LaTeX and Markdown
     + [Latex symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
     + [LaTeX Tables Generator](https://www.tablesgenerator.com)
