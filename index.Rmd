@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-<img src="images/KSB_YanhaoWang_2018Fall_full.jpg" style="width:25%; border:3px solid; margin-left: 20px; margin-right: 20px" align="right">
+<img src="images/AtTaiwan.JPG" style="width:30%; border:3px solid; margin-left: 20px; margin-right: 20px" align="right">
 
 Hi! Welcome to my website!
 
