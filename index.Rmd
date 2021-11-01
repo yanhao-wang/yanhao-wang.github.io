@@ -5,7 +5,7 @@
 
 <img src="images/AtTaiwan.JPG" style="width:30%; border:3px solid; margin-left: 20px; margin-right: 20px" align="right">
 
-<span style="color:Black; font-size: 20pt; font-family:'Bebas Neue'" >Yanhao Wang  (王彦皓)</span>
+<span style="color:Black; font-size: 20pt; font-family:'Bebas Neue'" >Yanhao Wang</span>    <span style="color:Black; font-size: 20pt; font-family:'STFangsong'" >(王彦皓)</span>
 
 
 Hi! Welcome to my website!
