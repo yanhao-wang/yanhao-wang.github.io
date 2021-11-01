@@ -1,7 +1,7 @@
 name: "Yanhao Wang"
 output_dir: "."
 navbar:
-  title: "Yanhao Wang"
+  title: "Home"
   left:
 #    - text: "Home"
 #      href: home.html

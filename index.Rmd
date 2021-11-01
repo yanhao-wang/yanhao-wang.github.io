@@ -5,6 +5,9 @@
 
 <img src="images/AtTaiwan.JPG" style="width:30%; border:3px solid; margin-left: 20px; margin-right: 20px" align="right">
 
+<span style="color:Black; font-size: 20pt; font-family:'Bebas Neue'" >Yanhao Wang  (王彦皓)</span>
+
+
 Hi! Welcome to my website!
 
 I'm a PhD candidate at the department of [Business Economics and Public Policy](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml), [Kelley School of Business](https://kelley.iu.edu/), [Indiana University Bloomington](https://indiana.edu/).

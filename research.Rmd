@@ -18,7 +18,7 @@ Nov 2017.
 
 ### <span style="color:blue">Publications<span>
 
-<span style="color:red; font-family:'Bebas Neue'" >The following papers were initiated when I did my master's in China.</span>
+<span style="color:red; font-family:'Times New Roman'" >The following papers were initiated when I did my master's in China.</span>
 
 [Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger](files/cv/HMW_JATM2021.pdf)<br>
 with Patrick McCarthy and Chun-Yu Ho<br>
