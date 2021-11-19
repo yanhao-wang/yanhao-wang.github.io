@@ -6,7 +6,7 @@
 I'm a self-taught amateur astronomer. Here are some links I frequently use: \
 [IU's Kirkwood Observatory](https://www.astro.indiana.edu/kirkwood.shtml) \
 [Heavens Above](https://www.heavens-above.com/) \
-[Clear SKy Chart](https://www.cleardarksky.com/csk/) \
+[Clear Sky Chart](https://www.cleardarksky.com/csk/) \
 <a href=https://www.cleardarksky.com/c/Blackfootkey.html>
 <img src="https://www.cleardarksky.com/c/Blackfootcsk.gif?c=1591206"></a>
 
