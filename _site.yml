@@ -16,8 +16,16 @@ navbar:
 #    - text: "COVID-19 Updates"
 #      href: covid19.html
   right:
+#    - icon: ai-cv ai-lg
+#     href: 
     - icon: fa-envelope fa-lg
       href: contact.html
+    - icon: fab fa-github fa-lg
+      href: http://github.com/yanhao-wang
+    - icon: fab fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/yanhao-wang-8761101b2/
+    - icon: fab fa-twitter fa-lg
+      href: https://twitter.com/wongyinho
 output:
   html_document:
     theme: paper
