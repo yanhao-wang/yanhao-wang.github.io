@@ -5,7 +5,7 @@ title: Yanhao Wang
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-<img src="images/AtTaiwan.JPG" style="width:30%; border:3px solid; margin-left: 20px; margin-right: 20px" align="right">
+<img src="images/portait.jpg" style="width:30%; border:3px solid; margin-left: 30px; margin-right: 30px" align="left">
 
 <!-- <span style="color:Black; font-size: 20pt; font-family:'Bebas Neue'" >Yanhao Wang</span>    <span style="color:Black; font-size: 20pt; font-family:'STFangsong'" >(王彦皓)</span> -->
 
