@@ -5,12 +5,12 @@
 
 ### <span style="color:blue">As independent lecturer:<span>
 
-G300: Introduction to Managerial Economics and Strategy (Fall 2020; Fall 2021) [[syllabus](files/course/BUS-G300_Fall2020_Syllabus.pdf)]
+G300: Introduction to Managerial Economics and Strategy (Fall 2020; Fall 2021) [[syllabus](files/course/G300_Fall2021_Syllabus.pdf)]
 
 &nbsp;  
 
 ### <span style="color:blue">As teching assistant:<span>
 
 G303: Game Theory (Fall 2018) <br /> 
-X530: Economics of Healthcare Analytics (Spring 2020)
+X530: Economics of Healthcare Analytics (Spring 2020；Spring 2021)
 
