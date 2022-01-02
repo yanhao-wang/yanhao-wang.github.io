@@ -1,19 +1,23 @@
-<title>Yanhao Wang - Miscellaneous</title>
+---
+title: ""
+pagetitle: "Yanhao Wang - Miscellaneous"
+---
 
 <link rel="stylesheet" href="style.css" type="text/css">
+<br>
 
 Real-time weather forecast (Bloomington, IN):
 <a href=https://www.cleardarksky.com/c/BlmngtnINkey.html>
 <img src="https://www.cleardarksky.com/c/BlmngtnINcsk.gif?c=1778453"></a>
 
-&nbsp;  
+<br>
 
 I'm a self-taught amateur astronomer. Here are some links I frequently use: \
 [IU's Kirkwood Observatory](https://www.astro.indiana.edu/kirkwood.shtml) \
 [Heavens Above](https://www.heavens-above.com/) \
 [Clear Sky Chart](https://www.cleardarksky.com/csk/) \
   
-&nbsp; 
+<br> 
 
 In my spare time, I play soccer and badminton. \
 My favorite football club is [Real Madrid](https://www.realmadrid.com/en). \

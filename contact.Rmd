@@ -1,4 +1,7 @@
-<title>Yanhao Wang - Contact</title>
+---
+title: ""
+pagetitle: "Yanhao Wang - Contact"
+---
 
 <link rel="stylesheet" href="style.css" type="text/css">
 

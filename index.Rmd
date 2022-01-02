@@ -1,17 +1,15 @@
 ---
-title: Yanhao Wang
+title: ""
+pagetitle: "Yanhao Wang - Home"
 ---
 
-<title>Yanhao Wang - Home</title>
+<br>
 
-<span style="color:Black; font-size: 21pt; font-family:'STFangsong'" >王<u>彦皓</u></span> <a href="https://www.chinesenamesinenglish.com/wiki/Yanhao" style="color:rgb(128,139,150)"> /jen-haʊ/ </a>
+<span style="color:Black; font-size: 21pt; font-family:'Bebas Neue'" >Yanhao Wang</span> &nbsp; <span style="color:Black; font-size: 19pt; font-family:'STFangsong'" >王<u>彦皓</u></span> <a href="https://www.chinesenamesinenglish.com/wiki/Yanhao" style="color:rgb(128,139,150)"> /jen-haʊ/ </a>
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-<img src="images/portait.jpg" style="width:30%; border:3px solid; margin-left: 30px; margin-right: 30px" align="left">
-
-<!-- <span style="color:Black; font-size: 20pt; font-family:'Bebas Neue'" >Yanhao Wang</span>    <span style="color:Black; font-size: 20pt; font-family:'STFangsong'" >(王彦皓)</span> -->
-
+<img src="images/portait.jpg" style="width:30%; border:3px solid; margin-left: 3px; margin-right: 30px" align="left">
 
 
 Hi! Welcome to my website!

@@ -1,8 +1,12 @@
-<title>Yanhao Wang - Resource</title>
+---
+title: ""
+pagetitle: "Yanhao Wang - Resource"
+---
 
 <link rel="stylesheet" href="style.css" type="text/css">
-  
-* **<span style="color:blue">Coding<span>**:
+<br>
+ 
+* **<span style="color:Black">Coding<span>**:
   + STATA:
     + [A tutorial](http://geocenter.github.io/StataTraining/)
     + [Example graphs](https://www.stata.com/features/example-graphs/)
@@ -26,19 +30,16 @@
     + [mdnice](https://mdnice.com)
     + [Marp](https://web.marp.app)
 
-  
-  
-&nbsp;  
+<br>
 
-* **<span style="color:blue">Data<span>**:
+* **<span style="color:Black">Data<span>**:
   + NBER data [collection](https://data.nber.org/data/)
   
-&nbsp;   
+<br>
 
-* **<span style="color:blue">Presentation<span>**:
+* **<span style="color:Black">Presentation<span>**:
   + ["How to give an applied micro talk"](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf) by Jesse M. Shapiro
   
-  
-&nbsp;
+<br>
 
 *Some more on my [GitHub repositories](https://github.com/yanhao-wang).*
