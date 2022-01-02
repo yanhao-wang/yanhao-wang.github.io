@@ -1,5 +1,4 @@
----
----
+<title>Yanhao Wang - Teaching</title>
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
@@ -12,5 +11,5 @@ G300: Introduction to Managerial Economics and Strategy (Fall 2020; Fall 2021) [
 ### <span style="color:blue">As teching assistant:<span>
 
 G303: Game Theory (Fall 2018) <br /> 
-X530: Economics of Healthcare Analytics (Spring 2020；Spring 2021)
+X530: Economics of Healthcare Analytics (Spring 2020; Spring 2021)
 

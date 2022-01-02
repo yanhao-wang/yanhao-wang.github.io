@@ -1,6 +1,9 @@
 ---
-title: Yanhao Wang 
+title: Yanhao Wang
 ---
+
+<title>Yanhao Wang - Home</title>
+
 <span style="color:Black; font-size: 21pt; font-family:'STFangsong'" >王<u>彦皓</u></span> <a href="https://www.chinesenamesinenglish.com/wiki/Yanhao" style="color:rgb(128,139,150)"> /jen-haʊ/ </a>
 
 <link rel="stylesheet" href="style.css" type="text/css">

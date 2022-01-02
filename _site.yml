@@ -7,6 +7,7 @@ navbar:
 #      href: home.html
     - text: "Research"
       href: research.html
+      title: "Research"
     - text: "Teaching"
       href: teaching.html
     - text: "Resources"
