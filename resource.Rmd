@@ -26,14 +26,13 @@ pagetitle: "Yanhao Wang - Resource"
   + Python:
     + [Quantitative Economics with Python](https://python.quantecon.org)
     + [Running a Jupyter notebook from a remote server](https://ljvmiranda921.github.io/notebook/2018/01/31/running-a-jupyter-notebook/)
+    + [dfply](https://github.com/kieferk/dfply)
   + Supercomputer at IU:
     + [Slurm](https://kb.iu.edu/d/awrz)
   + LaTeX and Markdown
     + [Latex symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
-    + [LaTeX Tables Generator](https://www.tablesgenerator.com)
     + [Beamer theme matrix](https://hartwork.org/beamer-theme-matrix/)
     + [Markdown syntax](https://www.appinn.com/markdown/)
-    + [mdnice](https://mdnice.com)
     + [Marp](https://web.marp.app)
 
 <br>
