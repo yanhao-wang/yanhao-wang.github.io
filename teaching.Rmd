@@ -8,12 +8,12 @@ pagetitle: "Yanhao Wang - Teaching"
 
 ### <span style="color:Black">As independent lecturer:<span>
 
-G300: Introduction to Managerial Economics and Strategy (Fall 2020; Fall 2021) [[syllabus](files/course/G300_Fall2021_Syllabus.pdf)]
+G300: [Introduction to Managerial Economics and Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G300-63) (Fall 2020/2021) [[syllabus](files/course/G300_Fall2021_Syllabus.pdf)]
 
 <br>
 
 ### <span style="color:Black">As teching assistant:<span>
 
-G303: Game Theory (Fall 2018) <br /> 
-X530: Economics of Healthcare Analytics (Spring 2020; Spring 2021)
+G303: [Game Theory for Business Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G303-64) (Fall 2018) <br /> 
+X530: Economics of Healthcare Analytics (Spring 2020/2021/2022)
 

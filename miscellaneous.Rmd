@@ -19,9 +19,9 @@ I'm a self-taught amateur astronomer. Here are some links I frequently use: \
   
 <br> 
 
-In my spare time, I play soccer and badminton. \
-My favorite football club is [Real Madrid](https://www.realmadrid.com/en). \
-My favorite badminton player is [Haifeng Fu](https://en.wikipedia.org/wiki/Fu_Haifeng). \
+In my spare time, I play soccer and swim. My favorite football club is [Real Madrid](https://www.realmadrid.com/en). \
+
+<!--My favorite badminton player is [Haifeng Fu](https://en.wikipedia.org/wiki/Fu_Haifeng). \-->
 
 
 <!--I also have a 微信公众号 to share some thoughts on life and research. \
