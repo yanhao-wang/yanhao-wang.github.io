@@ -7,6 +7,16 @@ pagetitle: "Yanhao Wang - About Me"
 
 <br> 
 
+Following are some Podcasts I find very interesting:
+
+*Surprise! It’s a $164,000 Bill for Your Heart Attack*
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/9269927/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/024b7f/" height="150" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+*The Impact of Group Purchasing Organizations on Healthcare Prices*
+<iframe width="100%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/543944778&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-323736376" title="Managed Care Cast" target="_blank" style="color: #cccccc; text-decoration: none;">Managed Care Cast</a> · <a href="https://soundcloud.com/user-323736376/makary-5" title="The Impact of Group Purchasing Organizations on Healthcare Prices" target="_blank" style="color: #cccccc; text-decoration: none;">The Impact of Group Purchasing Organizations on Healthcare Prices</a></div>
+
+<br> 
+
 In my spare time, I like running, swiming and playing soccer. You can follow me on [Strava](https://www.strava.com/athletes/109098929):
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/109098929/activity-summary/0d26a25c5fc5e997eba23600657c1ee9fa5cdad8'></iframe>
 
