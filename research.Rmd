@@ -11,11 +11,8 @@ pagetitle: "Yanhao Wang - Research"
 New draft coming soon.
 
 **What Happens Before New Banks Come to Town? Strategic Entry Deterrence in China’s Banking Market**<br>
-May 2019.
+New draft coming soon
 
-**Banking Market Development and Consumption Risk Sharing: Evidence from China.**<br>
-with Chun-Yu Ho, Dan Li and Peng Wang.<br> 
-Nov 2017.
 
 <br>
 
@@ -25,13 +22,22 @@ Nov 2017.
 
 [Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger](files/papers/HMW_JATM2021.pdf)<br>
 with Patrick McCarthy and Chun-Yu Ho<br>
-*Journal of Air Transport Management* (2021).
+*Journal of Air Transport Management (2021)* 
 
 [Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China](files/papers/HMW_RTE2020.pdf)<br>
 with Patrick McCarthy and Chun-Yu Ho<br>
-*Research in Transportation Economics* (2020).
+*Research in Transportation Economics (2020)* 
+
+
+<br>
+
+### <span style="color:Black">Other work<span>
 
 [Government-Firm Collusion, Environmental Regulation and Firm's Total Factor Productivity](files/papers/ER_TFP_2017.pdf)<br>
-*Economic Theory and Business Management* (2017), in Chinese.
+*Economic Theory and Business Management (2017)* , in Chinese.
+
+**Banking Market Development and Consumption Risk Sharing: Evidence from China.**<br>
+with Chun-Yu Ho, Dan Li and Peng Wang, *2017*.<br> 
+
 
 <!-- *For more writings and presentations, see my CV [here](files/CV_YanhaoWang_May2019.pdf).* -->
