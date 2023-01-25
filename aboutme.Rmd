@@ -12,11 +12,7 @@ In my spare time, I like running, swiming and playing soccer. You can follow me 
 
 <br> 
 
-I'm also a self-taught amateur astronomer. Here are some links I frequently use: \
-[IU's Kirkwood Observatory](https://www.astro.indiana.edu/kirkwood.shtml) \
-[Heavens Above](https://www.heavens-above.com/) \
-  
-I use the following chart to quickly assess the real-time weather conditions (Bloomington, IN):
+I'm also a self-taught amateur astronomer. I use the following chart to quickly assess the real-time weather conditions (Bloomington, IN):
 <a href=https://www.cleardarksky.com/c/BlmngtnINkey.html>
 <img src="https://www.cleardarksky.com/c/BlmngtnINcsk.gif?c=1778453"></a>
 
