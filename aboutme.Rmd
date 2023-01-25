@@ -1,0 +1,31 @@
+---
+title: ""
+pagetitle: "Yanhao Wang - About Me"
+---
+
+<link rel="stylesheet" href="style.css" type="text/css">
+
+<br> 
+
+In my spare time, I like running, swiming and playing soccer. You can follow me on [Strava](https://www.strava.com/athletes/109098929):
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/109098929/activity-summary/0d26a25c5fc5e997eba23600657c1ee9fa5cdad8'></iframe>
+
+<br> 
+
+I'm also a self-taught amateur astronomer. Here are some links I frequently use: \
+[IU's Kirkwood Observatory](https://www.astro.indiana.edu/kirkwood.shtml) \
+[Heavens Above](https://www.heavens-above.com/) \
+  
+I use the following chart to quickly assess the real-time weather conditions (Bloomington, IN):
+<a href=https://www.cleardarksky.com/c/BlmngtnINkey.html>
+<img src="https://www.cleardarksky.com/c/BlmngtnINcsk.gif?c=1778453"></a>
+
+<br>
+
+
+<!--I also have a 微信公众号 to share some thoughts on life and research. \
+You can find it by searching "**读博掉发问题不大**" in WeChat or scanning the following QR code: \
+
+<img src="images/wechat_mp_code.png" style="width:66%; margin-left: 20px; margin-right: 20px" align="left">
+
+<!-- ![](images/wechat_mp_code.png) -->

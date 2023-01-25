@@ -12,8 +12,8 @@ navbar:
       href: teaching.html
     - text: "Resources"
       href: resource.html      
-    - text: "Miscellaneous"
-      href: miscellaneous.html
+    - text: "About Me"
+      href: aboutme.html
 #    - text: "COVID-19 Updates"
 #      href: covid19.html
   right:
