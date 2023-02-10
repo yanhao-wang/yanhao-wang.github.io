@@ -7,16 +7,31 @@ pagetitle: "Yanhao Wang - About Me"
 
 <br> 
 
-In my spare time, I like running, swiming and playing soccer. You can follow me on [Strava](https://www.strava.com/athletes/109098929):
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/109098929/activity-summary/0d26a25c5fc5e997eba23600657c1ee9fa5cdad8'></iframe>
+<span style="color:Black">Following are some Podcasts I find very interesting:<span>
+
+*Surprise! It’s a $164,000 Bill for Your Heart Attack*
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7fj9PMd6NXpyrJkpDjrGHj?utm_source=generator&t=0" width="100%" height="150" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+*The Impact of Group Purchasing Organizations on Healthcare Prices*
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6fze6TQ3VFgI36yL6yrtBU?utm_source=generator&t=0" width="100%" height="150" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br> 
 
-I'm also a self-taught amateur astronomer. Here are some links I frequently use: \
-[IU's Kirkwood Observatory](https://www.astro.indiana.edu/kirkwood.shtml) \
-[Heavens Above](https://www.heavens-above.com/) \
-  
-I use the following chart to quickly assess the real-time weather conditions (Bloomington, IN):
+
+<span style="color:Black">I co-organize a PhD student reading group at BEPP with my cohort:<span>
+
+<iframe width="100%" height="304" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQi9Bt1kyyDoGUQ5hKj7g3Fn56QZQdXZ8ryQCITx8hqYPC1Clg2coPMRLpPENzrHvlSKsm8-VtYmnnk/pubhtml?widget=true&amp;headers=false"></iframe>
+
+<br>
+
+<span style="color:Black">In my spare time, I like running, swiming and playing soccer. You can follow me on [Strava](https://www.strava.com/athletes/109098929):<span>
+
+<iframe height='180' width="100%" frameborder='1' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/109098929/activity-summary/0d26a25c5fc5e997eba23600657c1ee9fa5cdad8'></iframe>
+
+<br> 
+
+<span style="color:Black">I'm also a self-taught amateur astronomer. I use the following chart to assess the real-time weather conditions (Bloomington, IN):<span>
+
 <a href=https://www.cleardarksky.com/c/BlmngtnINkey.html>
 <img src="https://www.cleardarksky.com/c/BlmngtnINcsk.gif?c=1778453"></a>
 
