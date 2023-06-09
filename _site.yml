@@ -10,8 +10,8 @@ navbar:
       title: "Research"
     - text: "Teaching"
       href: teaching.html
-    - text: "Resources"
-      href: resource.html      
+#    - text: "Resources"
+#      href: resource.html      
     - text: "About Me"
       href: aboutme.html
 #    - text: "COVID-19 Updates"

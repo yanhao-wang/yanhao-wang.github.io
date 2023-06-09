@@ -4,31 +4,35 @@ pagetitle: "Yanhao Wang - Research"
 ---
 
 <link rel="stylesheet" href="style.css" type="text/css">
+
+
+### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:3em">Working papers and work in-progress<span>
+
+**Wealth Shocks and Physician Behavior: Implications for Patient Welfare**<br>
+Job market paper
+
+**The (Anti-)Competitive Effect of Failed Bank Resolutions**<br> 
+Second-year paper
+
+**How External Finance affects Hospital Performance and Competition: Evidence from the Municipal Bond Market**<br>
+
+
+<!-- **The Value of Group Purchasing: Evidence from the U.S. Hospital Industry**, with Haizhen Lin, submitted.
+
+**Not In My Backyard: Strategic Deterrence and Firm Positioning Amid Entry Dynamics**, with Joanna Li and Eric Zhao, submitted. -->
+    
 <br>
 
-### <span style="color:Black">Working papers<span>
-**Group Purchasing Organizations in Health Care Industry**<br>
-New draft coming soon.
-
-**What Happens Before New Banks Come to Town? Strategic Entry Deterrence in China’s Banking Market**<br>
-New draft coming soon
+### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:3em">Publications<span>
 
 
-<br>
+[Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger](https://www.sciencedirect.com/science/article/abs/pii/S096969972030572X)<br>
+with Patrick McCarthy and Chun-Yu Ho, *Journal of Air Transport Management (2021)*
 
-### <span style="color:Black">Publications<span>
+[Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China](https://www.sciencedirect.com/science/article/abs/pii/S0739885920301943)<br>
+with Patrick McCarthy and Chun-Yu Ho, *Research in Transportation Economics (2020)* 
 
-<span style="color:grey; font-family:'Times New Roman'" >The following papers were initiated when I did my master's.</span>
-
-[Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger](files/papers/HMW_JATM2021.pdf)<br>
-with Patrick McCarthy and Chun-Yu Ho<br>
-*Journal of Air Transport Management (2021)* 
-
-[Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China](files/papers/HMW_RTE2020.pdf)<br>
-with Patrick McCarthy and Chun-Yu Ho<br>
-*Research in Transportation Economics (2020)* 
-
-
+<!-- 
 <br>
 
 ### <span style="color:Black">Other work<span>
@@ -39,5 +43,6 @@ with Patrick McCarthy and Chun-Yu Ho<br>
 **Banking Market Development and Consumption Risk Sharing: Evidence from China.**<br>
 with Chun-Yu Ho, Dan Li and Peng Wang, *2017*.<br> 
 
+-->
 
 <!-- *For more writings and presentations, see my CV [here](files/CV_YanhaoWang_May2019.pdf).* -->
