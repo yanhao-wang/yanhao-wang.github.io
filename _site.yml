@@ -29,5 +29,9 @@ navbar:
 #      href: https://twitter.com/wongyinho
 output:
   html_document:
-    theme: paper
+    theme: cosmo
     css: 'style.css'
+    #prettydoc::html_pretty:
+      #theme: leonids
+      #toc: yes
+    

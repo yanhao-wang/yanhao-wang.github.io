@@ -2,6 +2,7 @@
 body{
   font-family: Palatino;
   font-size: 12pt;
+  word-spacing: 0.05em
 }
 
 /* Headers */

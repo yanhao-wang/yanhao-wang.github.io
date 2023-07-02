@@ -7,7 +7,7 @@ pagetitle: "Yanhao Wang - About Me"
 
 <br> 
 
-<span style="color:Black;font-weight:bold">In my spare time, I like running, swiming and listening to podcasts.<span>
+<span style="color:Black;font-weight:bold">I like running, swiming and listening to podcasts.<span>
 
 <br> 
 

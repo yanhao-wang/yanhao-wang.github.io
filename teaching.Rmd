@@ -15,5 +15,5 @@ G300: [Introduction to Managerial Economics and Strategy](https://kelley.iu.edu/
 ### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:2em">As teaching assistant:<span>
 
 G303: [Game Theory for Business Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G303-64) (Fall 2018) <br /> 
-X530: Economics of Healthcare Analytics (Spring 2020/2021/2022)
+X530: Economics of Healthcare Analytics (Spring 2020--2023)
 
