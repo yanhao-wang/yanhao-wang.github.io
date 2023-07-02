@@ -9,3 +9,10 @@ body{
 h1,h2,h3,h4,h5,h6{
   font-size: 17pt;
 }
+
+iframe {
+    margin: 0;
+    padding: 0;
+    opacity: 0.9;
+    display:block;
+}

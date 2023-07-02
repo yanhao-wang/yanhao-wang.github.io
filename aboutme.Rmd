@@ -7,7 +7,7 @@ pagetitle: "Yanhao Wang - About Me"
 
 <br> 
 
-<span style="color:Black;font-weight:bold">I like running, swiming and listening to podcasts.<span>
+<span style="color:Black;font-weight:bold">Besides research, I like running, swiming and listening to podcasts.<span>
 
 <br> 
 
@@ -19,9 +19,9 @@ pagetitle: "Yanhao Wang - About Me"
 
 <span style="color:Black">Following are some podcasts I find very interesting:<span>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0YUwZr7pwAGcrNApiX1z82?utm_source=generator&t=0" width="100%" height="130" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7fj9PMd6NXpyrJkpDjrGHj?utm_source=generator&t=0" width="100%" height="130" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6fze6TQ3VFgI36yL6yrtBU?utm_source=generator&t=0" width="100%" height="130" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/0YUwZr7pwAGcrNApiX1z82?utm_source=generator&t=0" width="100%" height="130" frameBorder="0" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/7fj9PMd6NXpyrJkpDjrGHj?utm_source=generator&t=0" width="100%" height="130" frameBorder="0" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/6fze6TQ3VFgI36yL6yrtBU?utm_source=generator&t=0" width="100%" height="130" frameBorder="0" loading="lazy"></iframe>
 
 <br> 
 
