@@ -5,9 +5,23 @@ pagetitle: "Yanhao Wang - About Me"
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
+<br>
+
+<a class="weatherwidget-io" href="https://forecast7.com/en/39d21n86d48/47408/" data-label_1="BLOOMINGTON" data-label_2="WEATHER" data-theme="weather_one" >BLOOMINGTON WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+
 <br> 
 
-<span style="color:Black;font-weight:bold">Besides research, I like running, swiming and listening to podcasts.<span>
+<span style="color:Black;font-weight:bold">Besides research, I like running and swiming.<span>
+
+Hoosiers Outrun Cancer 2022 (5k) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indy Mini 2023 (Half Marathon)
+<figure>
+    <img src='images/HoosiersOutrunCancer22.jpeg' style="width:30%; float:left; margin-right: 30px" />
+    <img src='images/IndyMini23.jpeg' style="width:30%" />
+</figure>
+
 
 <br> 
 
@@ -19,18 +33,19 @@ pagetitle: "Yanhao Wang - About Me"
 
 <span style="color:Black">Following are some podcasts I find very interesting:<span>
 
-<iframe src="https://open.spotify.com/embed/episode/0YUwZr7pwAGcrNApiX1z82?utm_source=generator&t=0" width="100%" height="130" frameBorder="0" loading="lazy"></iframe>
-<iframe src="https://open.spotify.com/embed/episode/7fj9PMd6NXpyrJkpDjrGHj?utm_source=generator&t=0" width="100%" height="130" frameBorder="0" loading="lazy"></iframe>
-<iframe src="https://open.spotify.com/embed/episode/6fze6TQ3VFgI36yL6yrtBU?utm_source=generator&t=0" width="100%" height="130" frameBorder="0" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/0YUwZr7pwAGcrNApiX1z82?utm_source=generator&t=0" width="100%" height="92" frameBorder="0" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/7fj9PMd6NXpyrJkpDjrGHj?utm_source=generator&t=0" width="100%" height="92" frameBorder="0" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/6fze6TQ3VFgI36yL6yrtBU?utm_source=generator&t=0" width="100%" height="92" frameBorder="0" loading="lazy"></iframe>
 
-<br> 
+
+
+<!--
 
 <span style="color:Black">I co-organize a PhD student reading group at BEPP:<span>
 
 <iframe width="100%" height="304" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQi9Bt1kyyDoGUQ5hKj7g3Fn56QZQdXZ8ryQCITx8hqYPC1Clg2coPMRLpPENzrHvlSKsm8-VtYmnnk/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
-<!--
 
 <span style="color:Black">I'm also a self-taught amateur astronomer. I use the following chart to assess the real-time weather conditions (Bloomington, IN):<span>
 
