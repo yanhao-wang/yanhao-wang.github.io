@@ -7,9 +7,9 @@ pagetitle: "Yanhao Wang - Home"
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-<img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width:25%; border:1px solid; margin-left: 0px; margin-right: 50px" align="left">
+<img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width:27%; border:1px solid; margin-left: 0px; margin-right: 50px" align="left">
 
-<span style="color:Black; font-size: 21pt; font-family:'Georgia'" >Yanhao Wang</span> &nbsp; <span style="color:Black; font-size: 19pt; font-family:'STFangsong'" >王<u>彦皓</u></span> <a href="https://www.chinesenamesinenglish.com/wiki/Yanhao" style="color:rgb(128,139,150)"> /jen-haʊ/ </a>
+<span style="color:Black; font-size: 21pt; font-family:'Georgia'" >Yanhao Wang</span> &nbsp;&nbsp; <span style="color:Black; font-size: 19pt; font-family:STFangsong" >王<u>彦皓</u></span> <a href="https://www.chinesenamesinenglish.com/wiki/Yanhao" style="color:rgb(128,139,150)"> /jen-haʊ/ </a>
 
 <br>
 
@@ -19,7 +19,7 @@ I'm a PhD candidate at the department of [Business Economics and Public Policy](
 
 <!-- I earned my Bachelor degree in Finance and Master's degree in Economics from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I was also an exchange student at [Smith School of Business](https://smith.queensu.ca/index.php), [Queen's University](https://www.queensu.ca/). -->
 
-My research interests include healthcare, finance, and industrial organization. 
+My research interests span a variety of topics in health economics, with a particular focus on provider behavior and healthcare finance. 
 
 <!-- My CV is available [here](files/cv/CV_YanhaoWang_May2019.pdf). -->
 
