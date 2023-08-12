@@ -14,12 +14,13 @@ pagetitle: "Yanhao Wang - About Me"
 -->
 <br> 
 
-<span style="color:Black;font-weight:bold">Besides research, I like running and swiming.<span>
+<span style="color:Black;font-weight:bold">Besides research, I like distance running and swimming.<span>
 
-Hoosiers Outrun Cancer 2022 (5k) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indy Mini 2023 (Half Marathon)
-<figure>
+Indy Mini 2023 (Half Marathon) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hoosier Half (10k) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hoosiers Outrun Cancer 2022 (5k)
+<figure class="half" style="display:flex">
+    <img src='images/IndyMini23.jpeg' style="width:30%; margin-right: 30px" />
+    <img src='images/HoosierHalf23.jpg' style="width:30%; margin-right: 30px " />
     <img src='images/HoosiersOutrunCancer22.jpeg' style="width:30%; float:left; margin-right: 30px" />
-    <img src='images/IndyMini23.jpeg' style="width:30%" />
 </figure>
 
 
@@ -33,9 +34,9 @@ Hoosiers Outrun Cancer 2022 (5k) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 <span style="color:Black;font-weight:bold">Following are some podcasts I find very interesting:<span>
 
-<iframe src="https://open.spotify.com/embed/episode/0YUwZr7pwAGcrNApiX1z82?utm_source=generator&t=0" width="100%" height="92" frameBorder="0" loading="lazy"></iframe>
-<iframe src="https://open.spotify.com/embed/episode/7fj9PMd6NXpyrJkpDjrGHj?utm_source=generator&t=0" width="100%" height="92" frameBorder="0" loading="lazy"></iframe>
-<iframe src="https://open.spotify.com/embed/episode/6fze6TQ3VFgI36yL6yrtBU?utm_source=generator&t=0" width="100%" height="92" frameBorder="0" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/0EvCmKaFMG86mPJq8BBxSw?utm_source=generator" width="100%" height="92" frameBorder="0" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/7fj9PMd6NXpyrJkpDjrGHj?utm_source=generator" width="100%" height="92" frameBorder="0" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/6fze6TQ3VFgI36yL6yrtBU?utm_source=generator" width="100%" height="92" frameBorder="0" loading="lazy"></iframe>
 
 
 

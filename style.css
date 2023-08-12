@@ -16,3 +16,10 @@ iframe {
     opacity: 0.9;
     display:block;
 }
+
+figcaption {
+  color: black;
+  font-style: italic;
+  padding: 0px;
+  text-align: left;
+}
