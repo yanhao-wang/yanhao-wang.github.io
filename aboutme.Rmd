@@ -16,7 +16,7 @@ pagetitle: "Yanhao Wang - About Me"
 
 <span style="color:Black;font-weight:bold">Besides research, I like distance running and swimming.<span>
 
-Indy Mini 2023 (Half Marathon) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hoosier Half (10k) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hoosiers Outrun Cancer 2022 (5k)
+Indy Mini 2023 (Half Marathon) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hoosier Half 2023 (10k) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hoosiers Outrun Cancer 2022 (5k)
 <figure class="half" style="display:flex">
     <img src='images/IndyMini23.jpeg' style="width:30%; margin-right: 30px" />
     <img src='images/HoosierHalf23.jpg' style="width:30%; margin-right: 30px " />
