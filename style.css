@@ -2,7 +2,8 @@
 body{
   font-family: Palatino;
   font-size: 12pt;
-  word-spacing: 0.05em
+  word-spacing: 0.05em;
+  line-height: 1.8
 }
 
 /* Headers */
