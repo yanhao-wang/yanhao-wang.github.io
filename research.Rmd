@@ -8,26 +8,24 @@ pagetitle: "Yanhao Wang - Research"
 
 ### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:3em">Working papers and work in-progress<span>
 
-**The Effect of Wealth Shocks on Physician Behavior**<br>
+- **Wealth Shocks and Physician Behavior**<br>
 Job market paper, *draft available upon request*.
 
-**The Value of Group Purchasing: Evidence from the U.S. Hospital Industry**<br> 
-with Haizhen Lin, *under review*.
+- **The Value of Group Purchasing: Evidence from the U.S. Hospital Industry**<br> 
+with Haizhen Lin, revisions requested at *Journal of Public Economics*.
 
-**How External Finance affects Technology Adoption: Evidence from Hospital Municipal Bonds**<br>
+- **How Does Group Purchasing Boost Firm Performance? Evidence from U.S. Health Care**<br>
+with Haizhen Lin and Vivek Astvansh, revision requested at *Production and Organizations Management*.
+
+- **How External Finance affects Technology Adoption: Evidence from Hospital Municipal Bonds**<br>
+
+- **The (Anti-) Competitive Effect of Failed Bank Resolutions**<br> 
+Second-year paper, *draft available upon request*.
+
+- **Not In My Backyard: Strategic Deterrence and Firm Positioning Amid Entry Dynamics**<br> 
+with Joanna Li and Eric Zhao, *draft available upon request*.
 
 
-
-
-<!-- 
-
-**The (Anti-) Competitive Effect of Failed Bank Resolutions**<br> 
-Second-year paper
-
-
-**Not In My Backyard: Strategic Deterrence and Firm Positioning Amid Entry Dynamics**, with Joanna Li and Eric Zhao, submitted. 
-
--->
     
 <br>
 
