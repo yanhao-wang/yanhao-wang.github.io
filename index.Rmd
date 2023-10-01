@@ -7,7 +7,7 @@ pagetitle: "Yanhao Wang - Home"
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-<img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width:40%; border:1px solid; margin-left: 0px; margin-right: 50px" align="left">
+<img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width:37%; border:1px solid; margin-left: 0px; margin-right: 50px" align="left">
 
 <span style="color:Black; font-size: 21pt; font-family:'Georgia'" >Yanhao Wang</span> &nbsp;&nbsp; <span style="color:Black; font-size: 19pt; font-family:STFangsong" >王<b>彦皓</b></span> <a href="https://www.chinesenamesinenglish.com/wiki/Yanhao" style="color:rgb(128,139,150)"> /jen-haʊ/ </a>
 
@@ -15,12 +15,12 @@ pagetitle: "Yanhao Wang - Home"
 
 Welcome to my website!
 
-I'm a PhD candidate at the department of [Business Economics and Public Policy](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml), [Kelley School of Business](https://kelley.iu.edu/), [Indiana University Bloomington](https://indiana.edu/).
+I'm a PhD candidate at the department of [Business Economics and Public Policy](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml), [Kelley School of Business](https://kelley.iu.edu/), [Indiana University](https://indiana.edu/).
 
 <!-- I earned my Bachelor degree in Finance and Master's degree in Economics from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I was also an exchange student at [Smith School of Business](https://smith.queensu.ca/index.php), [Queen's University](https://www.queensu.ca/). -->
 
 My research interests span a variety of topics in health economics, with a particular focus on provider behavior and healthcare finance. 
 
-I'm on the 2023--2024 job market. Feel free to contact.
+I'm on the 2023--2024 job market. You can reach me by [yw113@iu.edu](yw113@iu.edu).
 
-Here is my [CV](https://www.dropbox.com/scl/fi/0w31mibsljlbdhj0lr0cw/CV_YanhaoWang_updated.pdf?rlkey=reglgizx6v8fw4utq1xb7ts0o&dl=0). You can reach me by [yw113@iu.edu](yw113@iu.edu).
+Here is my [CV](https://www.dropbox.com/scl/fi/0w31mibsljlbdhj0lr0cw/CV_YanhaoWang_updated.pdf?rlkey=reglgizx6v8fw4utq1xb7ts0o&dl=0). 
