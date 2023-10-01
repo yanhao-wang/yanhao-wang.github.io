@@ -32,10 +32,10 @@ with Joanna Li and Eric Zhao, *draft available upon request*.
 ### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:3em">Publications<span>
 
 
-[Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger](https://www.sciencedirect.com/science/article/abs/pii/S096969972030572X)<br>
+- [Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger](https://www.sciencedirect.com/science/article/abs/pii/S096969972030572X)<br>
 with Patrick McCarthy and Chun-Yu Ho, *Journal of Air Transport Management (2021)*.
 
-[Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China](https://www.sciencedirect.com/science/article/abs/pii/S0739885920301943)<br>
+- [Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China](https://www.sciencedirect.com/science/article/abs/pii/S0739885920301943)<br>
 with Patrick McCarthy and Chun-Yu Ho, *Research in Transportation Economics (2020)*.
 
 <!-- 
