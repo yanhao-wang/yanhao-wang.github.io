@@ -5,21 +5,22 @@ pagetitle: "Yanhao Wang - Home"
 
 <br>
 
-<span style="color:Black; font-size: 21pt; font-family:'Bebas Neue'" >Yanhao Wang</span> &nbsp; <span style="color:Black; font-size: 19pt; font-family:'STFangsong'" >王<u>彦皓</u></span> <a href="https://www.chinesenamesinenglish.com/wiki/Yanhao" style="color:rgb(128,139,150)"> /jen-haʊ/ </a>
-
 <link rel="stylesheet" href="style.css" type="text/css">
 
-<img src="images/portait.jpg" style="width:30%; border:3px solid; margin-left: 3px; margin-right: 30px" align="left">
+<img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width:37%; border:1px solid; margin-left: 0px; margin-right: 50px" align="left">
 
+<span style="color:Black; font-size: 21pt; font-family:'Georgia'" >Yanhao Wang</span> &nbsp;&nbsp; <span style="color:Black; font-size: 19pt; font-family:STFangsong" >王<b>彦皓</b></span> <a href="https://www.chinesenamesinenglish.com/wiki/Yanhao" style="color:rgb(128,139,150)"> /jen-haʊ/ </a>
 
-Hi! Welcome to my website!
+<br>
 
-I'm a PhD candidate at the department of [Business Economics and Public Policy](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml), [Kelley School of Business](https://kelley.iu.edu/), [Indiana University Bloomington](https://indiana.edu/).
+Welcome to my website!
 
-I got my Bachelor degree in Finance and Master's degree in Economics from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I was also an exchange student at [Smith School of Business](https://smith.queensu.ca/index.php), [Queen's University](https://www.queensu.ca/). 
+I'm a PhD candidate at the department of [Business Economics and Public Policy](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml), [Kelley School of Business](https://kelley.iu.edu/), [Indiana University](https://indiana.edu/).
 
-I study the interplay between financial and healthcare markets. I'm also interested in applied econometrics and public/development economics.
+<!-- I earned my Bachelor degree in Finance and Master's degree in Economics from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I was also an exchange student at [Smith School of Business](https://smith.queensu.ca/index.php), [Queen's University](https://www.queensu.ca/). -->
 
-<!-- My CV is available [here](files/cv/CV_YanhaoWang_May2019.pdf). -->
+My research interests span a variety of topics in health economics, with a particular focus on provider behavior and healthcare finance. 
 
-You can contact me via [yw113@iu.edu](yw113@iu.edu).
+I'm on the 2023--2024 job market. You can reach me by [yw113@iu.edu](yw113@iu.edu).
+
+Here is my [CV](files/cv/CV_YanhaoWang.pdf). 

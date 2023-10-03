@@ -2,9 +2,25 @@
 body{
   font-family: Palatino;
   font-size: 12pt;
+  word-spacing: 0.05em;
+  line-height: 1.8
 }
 
 /* Headers */
 h1,h2,h3,h4,h5,h6{
   font-size: 17pt;
+}
+
+iframe {
+    margin: 0;
+    padding: 0;
+    opacity: 0.9;
+    display:block;
+}
+
+figcaption {
+  color: black;
+  font-style: italic;
+  padding: 0px;
+  text-align: left;
 }

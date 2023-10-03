@@ -13,10 +13,10 @@
 
 <title>Yanhao Wang - Home</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -177,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -186,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -255,9 +252,6 @@ $(document).ready(function () {
   <a href="teaching.html">Teaching</a>
 </li>
 <li>
-  <a href="resource.html">Resources</a>
-</li>
-<li>
   <a href="aboutme.html">About Me</a>
 </li>
       </ul>
@@ -288,31 +282,27 @@ $(document).ready(function () {
 
 
 <p><br></p>
+<p><link rel="stylesheet" href="style.css" type="text/css"></p>
+<p><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width:37%; border:1px solid; margin-left: 0px; margin-right: 50px" align="left"></p>
 <p><span
-style="color:Black; font-size: 21pt; font-family:&#39;Bebas Neue&#39;">Yanhao
-Wang</span>   <span
-style="color:Black; font-size: 19pt; font-family:&#39;STFangsong&#39;">王<u>彦皓</u></span>
+style="color:Black; font-size: 21pt; font-family:&#39;Georgia&#39;">Yanhao
+Wang</span>    <span
+style="color:Black; font-size: 19pt; font-family:STFangsong">王<b>彦皓</b></span>
 <a href="https://www.chinesenamesinenglish.com/wiki/Yanhao" style="color:rgb(128,139,150)">
 /jen-haʊ/ </a></p>
-<p><link rel="stylesheet" href="style.css" type="text/css"></p>
-<p><img src="images/portait.jpg" style="width:30%; border:3px solid; margin-left: 3px; margin-right: 30px" align="left"></p>
-<p>Hi! Welcome to my website!</p>
+<p><br></p>
+<p>Welcome to my website!</p>
 <p>I’m a PhD candidate at the department of <a
 href="https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml">Business
 Economics and Public Policy</a>, <a href="https://kelley.iu.edu/">Kelley
 School of Business</a>, <a href="https://indiana.edu/">Indiana
-University Bloomington</a>.</p>
-<p>I got my Bachelor degree in Finance and Master’s degree in Economics
-from <a href="http://www.acem.sjtu.edu.cn/">Antai College of Economics
-and Management</a>, <a href="https://www.sjtu.edu.cn/">Shanghai Jiao
-Tong University</a>. I was also an exchange student at <a
-href="https://smith.queensu.ca/index.php">Smith School of Business</a>,
-<a href="https://www.queensu.ca/">Queen’s University</a>.</p>
-<p>I study the interplay between financial and healthcare markets. I’m
-also interested in applied econometrics and public/development
-economics.</p>
-<!-- My CV is available [here](files/cv/CV_YanhaoWang_May2019.pdf). -->
-<p>You can contact me via <a href="yw113@iu.edu">yw113@iu.edu</a>.</p>
+University</a>.</p>
+<!-- I earned my Bachelor degree in Finance and Master's degree in Economics from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I was also an exchange student at [Smith School of Business](https://smith.queensu.ca/index.php), [Queen's University](https://www.queensu.ca/). -->
+<p>My research interests span a variety of topics in health economics,
+with a particular focus on provider behavior and healthcare finance.</p>
+<p>I’m on the 2023–2024 job market. You can reach me by <a
+href="yw113@iu.edu">yw113@iu.edu</a>.</p>
+<p>Here is my <a href="files/cv/CV_YanhaoWang.pdf">CV</a>.</p>
 
 
 

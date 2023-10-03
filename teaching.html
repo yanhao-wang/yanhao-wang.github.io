@@ -13,10 +13,10 @@
 
 <title>Yanhao Wang - Teaching</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -177,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -186,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -255,9 +252,6 @@ $(document).ready(function () {
   <a href="teaching.html">Teaching</a>
 </li>
 <li>
-  <a href="resource.html">Resources</a>
-</li>
-<li>
   <a href="aboutme.html">About Me</a>
 </li>
       </ul>
@@ -289,19 +283,22 @@ $(document).ready(function () {
 
 <p><link rel="stylesheet" href="style.css" type="text/css"> <br></p>
 <div id="as-independent-lecturer" class="section level3">
-<h3><span style="color:Black">As independent lecturer:<span></h3>
+<h3><span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:2em">As
+independent lecturer:<span></h3>
 <p>G300: <a
 href="https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G300-63">Introduction
-to Managerial Economics and Strategy</a> (Fall 2020/2021) [<a
+to Managerial Economics and Strategy</a> (Fall, 2020–2021) [<a
 href="files/course/G300_Fall2021_Syllabus.pdf">syllabus</a>]</p>
 <p><br></p>
 </div>
 <div id="as-teaching-assistant" class="section level3">
-<h3><span style="color:Black">As teaching assistant:<span></h3>
+<h3><span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:2em">As
+teaching assistant:<span></h3>
 <p>G303: <a
 href="https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G303-64">Game
-Theory for Business Strategy</a> (Fall 2018) <br /> X530: Economics of
-Healthcare Analytics (Spring 2020/2021/2022)</p>
+Theory for Business Strategy</a> (Fall, 2018) <br /> X530: <a
+href="https://oneill.indiana.edu/doc/masters/mshm-curriculum.pdf">Economics
+of Healthcare Analytics</a> (Spring, 2020–2023)</p>
 </div>
 
 
