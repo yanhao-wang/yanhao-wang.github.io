@@ -11,11 +11,11 @@ pagetitle: "Yanhao Wang - Research"
 - **Wealth Shocks and Physician Behavior**<br>
 Job market paper, *draft available upon request*.
 
-- **The Value of Group Purchasing: Evidence from the U.S. Hospital Industry**<br> 
+- **[The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](files/papers/GPO_LinWang_2023.pdf)**<br> 
 with Haizhen Lin, revisions requested at *Journal of Public Economics*.
 
 - **How Does Group Purchasing Boost Firm Performance? Evidence from U.S. Health Care**<br>
-with Haizhen Lin and Vivek Astvansh, revision requested at *Production and Organizations Management*.
+with Haizhen Lin and Vivek Astvansh,  under revision for *second round of review*.
 
 - **How External Finance affects Technology Adoption: Evidence from Hospital Municipal Bonds**<br>
 
@@ -32,10 +32,10 @@ with Joanna Li and Eric Zhao, *draft available upon request*.
 ### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:3em">Publications<span>
 
 
-- [Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger](https://www.sciencedirect.com/science/article/abs/pii/S096969972030572X)<br>
+- **[Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger](https://www.sciencedirect.com/science/article/abs/pii/S096969972030572X)**<br>
 with Patrick McCarthy and Chun-Yu Ho, *Journal of Air Transport Management (2021)*.
 
-- [Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China](https://www.sciencedirect.com/science/article/abs/pii/S0739885920301943)<br>
+- **[Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China](https://www.sciencedirect.com/science/article/abs/pii/S0739885920301943)**<br>
 with Patrick McCarthy and Chun-Yu Ho, *Research in Transportation Economics (2020)*.
 
 <!-- 
