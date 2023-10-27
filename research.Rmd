@@ -7,7 +7,7 @@ pagetitle: "Yanhao Wang - Research"
 
 ### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:3em">Job market paper<span>
 
-- <span style="color:navy">**The Effect of Wealth on Physician Behavior: Evidence from Delivery Procedures**</span><br>
+- <span style="color:navy">**Wealth Shocks and Physician Behavior: Evidence from Childbirth**</span><br>
 new draft coming soon!
 <details>
 <summary>Abstract</summary>
@@ -17,7 +17,7 @@ new draft coming soon!
 
 ### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:3em">Working papers and work in-progress<span>
 
-- **[The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](https://drive.google.com/file/d/1iXur3eZK1mYvWpQK5mxQqtoglVUQh_cI/view?usp=sharing)**<br> 
+- **[The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](https://drive.google.com/file/d/1iHUoDXsjB_j10uJ64gvneLJ-XNHiqms2/view?usp=sharing)**<br> 
 with Haizhen Lin<br>
 revisions requested from the *Journal of Public Economics*.<br>
 <details>
@@ -48,6 +48,7 @@ under review, draft available upon request.
 ### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:3em">Work-in-progress<span>
 
 - <span style="color:navy">**How External Finance affects Technology Adoption: Evidence from Hospital Municipal Bonds**</span><br>
+data-analysis phase
 <details>
 <summary>Abstract</summary>
 <div style="text-align: justify; line-height: 1.5em"><span style="color:Black; font-size: 12pt; font-family:'Georgia'" >Prior studies have documented significant dispersion in productivity and quality in the healthcare sector. However, little is known about if and how external finance shapes this dispersion through technology adoption and diffusion. This paper answers this question using data on municipal bonds issued by U.S. hospitals merged with hospital-level adoption of surgical robots and Medicare claims data on prostate cancer surgeries. In 2007, several big bond insurers stopped issuing new municipal bonds because of unexpected and huge losses in residential mortgage-backed securities (RMBS). I predict that the treated hospitals that have ex-ante relationships with the crashed insurers, as opposed to other hospitals that use unaffected insurers, find it harder to issue bonds or have to borrow at higher costs. Consequently, I predict that they adopt robots more slowly and less frequently, leading to smaller market shares and lower productivity.</span></div></details>

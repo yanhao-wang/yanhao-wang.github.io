@@ -13,21 +13,19 @@ pagetitle: "Yanhao Wang - Home"
 
 <div><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width: 270px; border:1px solid; margin-left: 0px; margin-right: 50px" align="left"> 
 
-<p style="margin-bottom:0.3cm;"></p>
-
 Welcome to my website!
 
 I'm a PhD candidate at the Department of [Business Economics and Public Policy](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml), [Kelley School of Business](https://kelley.iu.edu/), [Indiana University](https://indiana.edu/).
 
 <!-- I earned my Bachelor degree in Finance and Master's degree in Economics from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I was also an exchange student at [Smith School of Business](https://smith.queensu.ca/index.php), [Queen's University](https://www.queensu.ca/). -->
 
-My research interests span a variety of topics in health economics and industrial organization, with a particular focus on provider behavior, healthcare finance, and banking competition. 
+My research interests span a variety of topics in healthcare, finance, and industrial organization. My current work focuses on provider behavior, healthcare finance, and banking competition. 
 
 I'm on the 2023/24 job market. 
 
 You can reach me by [yw113@iu.edu](yw113@iu.edu).
 
-[<button class="button-13" role="button">CV</button>](https://drive.google.com/file/d/1jLFVV9NM13-lajywaRBhcuOk5SWdRj-y/view?usp=sharing)</div>
+[<button class="button-13" role="button">CV</button>](https://drive.google.com/file/d/1lUEiWiIVMlxCNKrU8WhspagR8vmduQug/view?usp=sharing)</div>
 
 
 
