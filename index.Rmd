@@ -7,12 +7,13 @@ pagetitle: "Yanhao Wang - Home"
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-<div style="text-align: center"><span style="color:Navy; font-size: 23pt; font-family:'Georgia'" ><b>Yanhao Wang</b></span> &nbsp;&nbsp; <span style="color:Black; font-size: 19pt; font-family:STFangsong" >王<b>彦皓</b></span> <a href="https://www.chinesenamesinenglish.com/wiki/Yanhao" style="color:rgb(128,139,150)"> /jen-haʊ/ </a></div>
+<div style="text-align: center"><span style="color:Navy; font-size: 27pt; font-family:'Georgia'" ><b>Yanhao Wang</b></span> &nbsp;&nbsp; <span style="color:Black; font-size: 19pt; font-family:STFangsong" >王<b>彦皓</b></span> <a href="https://www.chinesenamesinenglish.com/wiki/Yanhao" style="color:rgb(128,139,150)"> /jen-haʊ/ </a></div>
 
 <br>
 
-<img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width:31%; border:1px solid; margin-left: 0px; margin-right: 50px" align="left">
+<div><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width: 270px; border:1px solid; margin-left: 0px; margin-right: 50px" align="left"> 
 
+<p style="margin-bottom:0.3cm;"></p>
 
 Welcome to my website!
 
@@ -22,6 +23,11 @@ I'm a PhD candidate at the Department of [Business Economics and Public Policy](
 
 My research interests span a variety of topics in health economics and industrial organization, with a particular focus on provider behavior, healthcare finance, and banking competition. 
 
-I'm on the 2023--2024 job market. You can reach me by [yw113@iu.edu](yw113@iu.edu).
+I'm on the 2023/24 job market. 
 
-Here is my [<span style="font-weight:bold">CV</span>](https://drive.google.com/file/d/1jAvFR8tATC9fl211JrZrL0yDJPOq3Cc6/view?usp=sharing).
+You can reach me by [yw113@iu.edu](yw113@iu.edu).
+
+[<button class="button-13" role="button">CV</button>](https://drive.google.com/file/d/1jAvFR8tATC9fl211JrZrL0yDJPOq3Cc6/view?usp=sharing)</div>
+
+
+
