@@ -45,11 +45,11 @@ a:active {
 /* Buttons */
 .button-13 {
   background-color: #fff;
-  border: 1px solid #d5d9d9;
+  border: 1px solid navy;
   border-radius: 8px;
   box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
   box-sizing: border-box;
-  color: black;
+  color: navy;
   cursor: pointer;
   display: inline-block;
   font-family: "Amazon Ember",sans-serif;
