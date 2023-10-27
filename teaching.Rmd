@@ -8,7 +8,7 @@ pagetitle: "Yanhao Wang - Teaching"
 
 ### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:2em">As independent lecturer:<span>
 
-G300: [Introduction to Managerial Economics and Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G300-63) (Fall, 2020--2021) [[syllabus](files/course/G300_Fall2021_Syllabus.pdf)]
+G300: [Introduction to Managerial Economics and Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G300-63) (Fall, 2020--2021)
 
 <br>
 
@@ -17,3 +17,6 @@ G300: [Introduction to Managerial Economics and Strategy](https://kelley.iu.edu/
 G303: [Game Theory for Business Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G303-64) (Fall, 2018) <br /> 
 X530: [Economics of Healthcare Analytics](https://oneill.indiana.edu/doc/masters/mshm-curriculum.pdf) (Spring, 2020--2023)
 
+<br>
+
+[<span style="color:Navy;font-family:'Arial';font-size:13pt;font-weight:bold">Teaching Evaluation<span>](https://drive.google.com/file/d/1jDgAvkp3KL8lns0DHFS4vdEfEmQDN1dX/view?usp=sharing)

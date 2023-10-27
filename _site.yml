@@ -34,4 +34,3 @@ output:
     #prettydoc::html_pretty:
       #theme: leonids
       #toc: yes
-    
