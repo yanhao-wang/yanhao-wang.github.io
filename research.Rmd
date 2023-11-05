@@ -17,8 +17,8 @@ pagetitle: "Yanhao Wang - Research"
 ### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:3em">Working papers<span>
 
 - **[The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](https://drive.google.com/file/d/1iHUoDXsjB_j10uJ64gvneLJ-XNHiqms2/view?usp=sharing)**<br> 
-with Haizhen Lin<br>
-revisions requested from the *Journal of Public Economics*.<br>
+with Haizhen Lin, revision requested from the *Journal of Public Economics*.<br>
+--Presented at IIOC (2023), ASHEcon (2023)
 <details>
 <summary>Abstract</summary>
 <div style="text-align: justify; line-height: 1.5em"><span style="color:Black; font-size: 12pt; font-family:'Georgia'" >Group purchasing organizations, or GPOs, are pervasive in many settings, but the actual value of GPOs remains a constant topic of debate. We offer one of the first studies examining the effect of GPOs on supply expenses in the U.S. hospital setting. We find that a one-standard-deviation increase in GPO scale (GPO market share weighted by member hospitals’ bed capacity) decreases an average hospital’s supply expenses by 2.7%, translating into an annual savings of more than half a million dollars. An even study analysis helps to foster a causal interpretation of our main findings. We find no evidence that GPOs reduce supply expenses at the cost of the quality of patient care or by means of changing the patient composition. Instead, we find some of the cost savings are passed to consumers in terms of lowered hospital prices, although only in highly competitive hospital markets. Our results contribute directly to the ongoing debates over the value of GPOs and more broadly to the literature on countervailing buyer power and intermediaries.</span></div>
@@ -26,8 +26,8 @@ revisions requested from the *Journal of Public Economics*.<br>
 <p style="margin-bottom:0.5cm;"></p>
 
 - <span style="color:navy">**How Does Group Purchasing Boost Firm Performance? Evidence from U.S. Health Care**</span><br>
-with Haizhen Lin and Vivek Astvansh<br>
-under revision for second round of review, draft available upon request.
+with Haizhen Lin and Vivek Astvansh, revision requested, draft available upon request.<br>
+--Best in track paper at the American Marketing Association Summer Conference (2022)
 <details>
 <summary>Abstract</summary>
 <div style="text-align: justify; line-height: 1.5em"><span style="color:Black; font-size: 12pt; font-family:'Georgia'" >A firm often joins a group purchasing organization (GPO), hoping to benefit from the GPO’s economies of scale. While the practitioner’s evidence on this hope is mixed, academic attention is severely limited. We address this inattention in the empirical context of U.S. health care. We find that, on average, an increase of 1 standard deviation in the scale of a hospital’s GPO boosts the hospital’s number of patient admissions by 5% in the following year. We next test two mechanisms: (1) cost efficiency and (2) patient satisfaction. A parallel mediation model supports both mechanisms, with cost efficiency and patient satisfaction explaining 30% and 10% of the total effect, respectively. We also document that relative to their large counterparts, small hospitals benefit more from the GPO scale. Interestingly, for small (large) hospitals, cost efficiency (patient satisfaction) is the predominant mechanism. </span></div>
@@ -35,8 +35,9 @@ under revision for second round of review, draft available upon request.
 <p style="margin-bottom:0.5cm;"></p>
 
 - <span style="color:navy">**Not In My Backyard: Strategic Deterrence and Firm Positioning Amid Entry Dynamics**</span><br> 
-with Joanna Li and Eric Zhao<br>
-under review, draft available upon request.
+with Joanna Li and Eric Zhao, draft available upon request.<br>
+--Nomination to the PhD paper prize at the Strategic Management Society Conference (2023)<br>
+--Finalist of the Best Proposal for Rigor Award of the SMS's competitive strategy group (2023)
 <details>
 <summary>Abstract</summary>
 <div style="text-align: justify; line-height: 1.5em"><span style="color:Black; font-size: 12pt; font-family:'Georgia'" >In this paper, we explore how incumbent firms preemptively react to entry threats, and how their actions impact the strategic positioning of potential entrants. By merging insights from strategic positioning and strategic entry deterrence literature, we predict that incumbents will take preemptive actions to deter entry when entry threats are higher and that this deterrence will vary depending on the potential entrants’ legitimacy in the local market. We also expect new entrants to pursue a distinctive position if they persist in entering despite deterrence by incumbents. To test our predictions, we analyzed data from over 45,000 bank branches across 189 Chinese cities from 2006 to 2014 and leveraged quasi-experimental variation in entry threats from branching deregulation in the Chinese retail banking industry. The results provide strong support for our hypotheses.</span></div>
