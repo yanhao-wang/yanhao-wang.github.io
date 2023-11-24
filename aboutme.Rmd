@@ -16,13 +16,12 @@ pagetitle: "Yanhao Wang - About Me"
 
 <span style="color:Black;font-weight:bold">Besides research, I like distance running and swimming.<span>
 
-<span style="margin-left:10px">Indy Mini 2023 (Half Marathon)</span><span style="margin-left:80px">Hoosier Half 2023 (10k)</span><span style="margin-left:80px">Hoosiers Outrun Cancer 2022 (5k)</span>
-<figure class="half" style="display:flex">
+<span style="margin-left:10px">Indy Mini 2023 (Half Marathon)</span><span style="margin-left:90px">Hoosier Half 2023 (10k)</span><span style="margin-left:80px">Hoosiers Outrun Cancer 2022 (5k)</span>
+<figure>
     <img src='images/IndyMini23.jpeg' style="width:270px; height:270px; margin-right: 30px" />
     <img src='images/HoosierHalf23.jpg' style="width:270px; height:270px; margin-right: 30px " />
     <img src='images/HoosiersOutrunCancer22.jpeg' style="width:270px; height:270px" />
 </figure>
-
 
 <br> 
 
@@ -40,7 +39,7 @@ pagetitle: "Yanhao Wang - About Me"
 
 
 
-<!--
+<!--  class="half" style="display:flex"
 
 <span style="color:Black">I co-organize a PhD student reading group at BEPP:<span>
 
