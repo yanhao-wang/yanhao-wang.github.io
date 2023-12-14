@@ -17,7 +17,7 @@ pagetitle: "Yanhao Wang - Research"
 ### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:3em">Working papers<span>
 
 - **[The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](https://drive.google.com/file/d/1iHUoDXsjB_j10uJ64gvneLJ-XNHiqms2/view?usp=sharing)**<br> 
-with Haizhen Lin, revision requested from the *Journal of Public Economics*.<br>
+with Haizhen Lin, revision requested from the ***Journal of Public Economics***.<br>
 --Presented at IIOC (2023), ASHEcon (2023)
 <details>
 <summary>Abstract</summary>
@@ -26,7 +26,7 @@ with Haizhen Lin, revision requested from the *Journal of Public Economics*.<br>
 <p style="margin-bottom:0.5cm;"></p>
 
 - <span style="color:navy">**How Does Group Purchasing Boost Firm Performance? Evidence from U.S. Health Care**</span><br>
-with Haizhen Lin and Vivek Astvansh, revision requested, draft available upon request.<br>
+with Haizhen Lin and Vivek Astvansh, revision requested from ***Production and Operations Management***.<br>
 --Best in track paper at the American Marketing Association Summer Conference (2022)
 <details>
 <summary>Abstract</summary>
