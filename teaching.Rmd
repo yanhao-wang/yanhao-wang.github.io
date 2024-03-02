@@ -14,8 +14,8 @@ G300 (undergraduate): [Introduction to Managerial Economics and Strategy](https:
 
 ### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:2em">As teaching assistant:<span>
 
-G303 (undergraduate): [Game Theory for Business Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G303-64) (Fall 2018) <br> 
-X530 (master's): [Economics of Healthcare Analytics](https://oneill.indiana.edu/doc/masters/mshm-curriculum.pdf) ($\times$ 4, Spring 2020--2023)
+X530 (master's): [Economics of Healthcare Analytics](https://oneill.indiana.edu/doc/masters/mshm-curriculum.pdf) ($\times$ 4, Spring 2020--2023)<br> 
+G303 (undergraduate): [Game Theory for Business Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G303-64) (Fall 2018) 
 
 <br>
 
