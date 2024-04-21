@@ -23,10 +23,10 @@ navbar:
 #      href: contact.html
     - icon: fab fa-github fa-lg
       href: http://github.com/yanhao-wang
-    - icon: fab fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/yanhao-wang-8761101b2/
-#    - icon: fab fa-twitter fa-lg
-#      href: https://twitter.com/wongyinho
+#    - icon: fab fa-linkedin fa-lg
+#      href: https://www.linkedin.com/in/yanhao-wang-8761101b2/
+    - icon: fab fa-twitter fa-lg
+      href: https://twitter.com/yanhao__wang
 output:
   html_document:
     theme: cosmo

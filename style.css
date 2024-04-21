@@ -46,7 +46,7 @@ a:active {
 .button-13 {
   background-color: #fff;
   border: 1px solid navy;
-  border-radius: 8px;
+  border-radius: 10px;
   box-shadow: rgba(113, 113, 113, .5) 0 2px 5px 0;
   box-sizing: border-box;
   color: navy;
@@ -63,8 +63,8 @@ a:active {
   -webkit-user-select: none;
   touch-action: manipulation;
   vertical-align: middle;
-  width: 270px;
-  height: 27px;
+  width: 250px;
+  height: 26px;
 }
 
 .button-13:hover {
