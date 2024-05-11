@@ -17,7 +17,7 @@ Welcome to my website!
 
 I am a PhD candidate in [Business Economics and Public Policy](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml) at the [Kelley School of Business](https://kelley.iu.edu/), [Indiana University Bloomington](https://indiana.edu/).
 
-My fields of interest include the economics of healthcare and real estate markets. In my current research I study the behavior of healthcare providers and its implications for patient health and medical expenditure.
+My fields of interest include the economics of healthcare and financial markets. In my current research I study the behavior of healthcare providers and its implications for patient health and medical expenditure.
 
 Email: <span style="color:navy">yw113[at]iu[dot]edu</span>
 
