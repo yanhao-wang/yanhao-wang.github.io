@@ -8,7 +8,7 @@ pagetitle: "Yanhao Wang - Research"
 ### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:3em">Working papers<span>
 
 - **[Wealth Shocks and Physician Behavior: Evidence from Childbirth](https://drive.google.com/file/d/1lOOZrtZLUN3s0f6mh5AoVo26NyZskXoa/view?usp=sharing)** (*job market paper*)<br>
--- Presented at Kelley School (BEPP seminar), O’Neill School (Health policy workshop), CES North America 2024, ASHEcon 2024 (scheduled), INFORMS annual meeting 2024 (scheduled)
+-- Presented at Kelley School (BEPP seminar), O’Neill School (Health policy workshop), CES North America (2024), ASHEcon (2024, scheduled), INFORMS Annual Meeting (2024, scheduled)
 <!--
 <details>
 <summary>Abstract</summary>
