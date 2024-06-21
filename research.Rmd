@@ -7,7 +7,7 @@ pagetitle: "Yanhao Wang - Research"
 
 ### <span style="color:Black;font-family:'Arial';font-size:18pt;font-weight:bold;line-height:3em">Working papers<span>
 
-- **[Wealth Shocks and Physician Behavior: Evidence from Childbirth](files/paper/JMP_Wang_2023.pdf)** <br>
+- **[Wealth Shocks and Physician Behavior: Evidence from Childbirth](files/papers/JMP_Wang_2023.pdf)** <br>
  *Job market paper*, new draft coming soon. <br>
 <!--
 -- Presented at Kelley School (BEPP seminar), O’Neill School (Health policy workshop), CES North America (2024), ASHEcon (2024, scheduled), INFORMS Annual Meeting (2024, scheduled)
@@ -19,7 +19,7 @@ pagetitle: "Yanhao Wang - Research"
 -->
 
 
-- **[The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](files/paper/GPO_LinWang_2023.pdf)** <br> 
+- **[The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](files/papers/GPO_LinWang_2023.pdf)** <br> 
  with Haizhen Lin, R&R at the *Journal of Public Economics*. <br>
 <!--
 -- Presented at IIOC (2023), ASHEcon (2023)
