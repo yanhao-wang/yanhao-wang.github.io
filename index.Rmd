@@ -7,20 +7,22 @@ pagetitle: "Yanhao Wang - Home"
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-<img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width:37%; border:1px solid; margin-left: 0px; margin-right: 50px" align="left">
+<div style="text-align: center"><span style="color:Navy; font-size: 27pt; font-family:'Georgia'" ><b>Yanhao Wang</b></span></div>
 
-<span style="color:Black; font-size: 21pt; font-family:'Georgia'" >Yanhao Wang</span> &nbsp;&nbsp; <span style="color:Black; font-size: 19pt; font-family:STFangsong" >王<b>彦皓</b></span> <a href="https://www.chinesenamesinenglish.com/wiki/Yanhao" style="color:rgb(128,139,150)"> /jen-haʊ/ </a>
+<!--
+&nbsp;&nbsp; <span style="color:Black; font-size: 19pt; font-family:STFangsong" >王<b>彦皓</b></span> <a href="https://www.chinesenamesinenglish.com/wiki/Yanhao" style="color:rgb(128,139,150)"> /jen-haʊ/ </a>
+-->
 
 <br>
 
+<div><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width: 210px; border:1px solid; margin-left: 0px; margin-right: 50px" align="left"> 
+
 Welcome to my website!
 
-I'm a PhD candidate at the department of [Business Economics and Public Policy](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml), [Kelley School of Business](https://kelley.iu.edu/), [Indiana University](https://indiana.edu/).
+I am a PhD candidate at the Kelley School of Business, Indiana University. 
 
-<!-- I earned my Bachelor degree in Finance and Master's degree in Economics from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I was also an exchange student at [Smith School of Business](https://smith.queensu.ca/index.php), [Queen's University](https://www.queensu.ca/). -->
+My fields of interest include the economics of healthcare and financial markets. In my current research I study the behavior of healthcare providers and its implications for patient health and medical expenditure.
 
-My research interests span a variety of topics in health economics, with a particular focus on provider behavior and healthcare finance. 
+Email: <span style="color:navy">yw113[at]iu[dot]edu</span>
 
-I'm on the 2023--2024 job market. You can reach me by [yw113@iu.edu](yw113@iu.edu).
-
-Here is my [CV](files/cv/CV_YanhaoWang.pdf). 
+[<button class="button-13" role="button">CV</button>](files/cv/CV_YanhaoWang_June2024.pdf)</div>

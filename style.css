@@ -1,7 +1,7 @@
 /* Whole document: */
 body{
   font-family: Palatino;
-  font-size: 12pt;
+  font-size: 13pt;
   word-spacing: 0.05em;
   line-height: 1.8
 }
@@ -24,3 +24,58 @@ figcaption {
   padding: 0px;
   text-align: left;
 }
+
+/* Links */
+a:link {
+  color: navy;
+}
+
+a:visited {
+  color: navy;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:active {
+  color: blue;
+}
+
+/* Buttons */
+.button-13 {
+  background-color: #fff;
+  border: 1px solid navy;
+  border-radius: 10px;
+  box-shadow: rgba(113, 113, 113, .5) 0 2px 5px 0;
+  box-sizing: border-box;
+  color: navy;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Amazon Ember",sans-serif;
+  font-size: 13px;
+  line-height: 13px;
+  padding: 0 5px 0 5px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  width: 210px;
+  height: 26px;
+}
+
+.button-13:hover {
+  background-color: rgba(198, 198, 198, 0.8);
+  font-weight: bold;
+}
+
+.button-13:focus {
+  border-color: #008296;
+  box-shadow: rgba(113, 113, 113, .5) 0 2px 5px 0;
+  outline: 0;
+}
+
+s
