@@ -6,18 +6,13 @@ pagetitle: "Yanhao Wang - Teaching"
 <link rel="stylesheet" href="style.css" type="text/css">
 <br>
 
-### <span style="font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">Instructor (Indiana University):<span>
+### <span style="font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">At Indiana University:<span>
 
-G300 (undergraduate): [Introduction to Managerial Economics and Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G300-63) ($\times$ 2, Fall 2020 & 2021)
+[Introduction to Managerial Economics and Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G300-63) (Instructor, Fall 2020--2021) <br>
+[Economics of Healthcare Analytics](https://oneill.indiana.edu/doc/masters/mshm-curriculum.pdf) (TA, Spring 2020--2024) <br> 
+[Game Theory for Business Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G303-64) (TA, Fall 2018) <br>
 
-<br>
 
-### <span style="font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">Teaching Assistant (Indiana University):<span>
-
-X530 (master's): [Economics of Healthcare Analytics](https://oneill.indiana.edu/doc/masters/mshm-curriculum.pdf) ($\times$ 5, Spring 2020--2024)<br> 
-G303 (undergraduate): [Game Theory for Business Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G303-64) (Fall 2018) 
-
-<br>
 
 <!--
 <span style="color:Navy;font-family:'Arial';font-size:13pt;font-weight:bold"><u>[Teaching Evaluation](https://drive.google.com/file/d/1l5h_yFHahG93Va268Km_xyEwjq0hn8A0/view?usp=sharing)</u><span>

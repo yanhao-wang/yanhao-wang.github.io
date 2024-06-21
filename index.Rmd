@@ -15,14 +15,14 @@ pagetitle: "Yanhao Wang - Home"
 
 <br>
 
-<div><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width: 250px; border:1px solid; margin-left: 0px; margin-right: 50px" align="left"> 
+<div><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width: 210px; border:1px solid; margin-left: 0px; margin-right: 50px" align="left"> 
 
 Welcome to my website!
 
-I am a PhD candidate in [Business Economics and Public Policy](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml) at the [Kelley School of Business](https://kelley.iu.edu/), [Indiana University Bloomington](https://indiana.edu/).
+I am a PhD candidate at the Kelley School of Business, Indiana University. 
 
 My fields of interest include the economics of healthcare and financial markets. In my current research I study the behavior of healthcare providers and its implications for patient health and medical expenditure.
 
 Email: <span style="color:navy">yw113[at]iu[dot]edu</span>
 
-[<button class="button-13" role="button">CV</button>](files/cv/CV_YanhaoWang.pdf)</div>
+[<button class="button-13" role="button">CV</button>](files/cv/CV_YanhaoWang_June2024.pdf)</div>
