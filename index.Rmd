@@ -15,14 +15,14 @@ pagetitle: "Yanhao Wang - Home"
 
 <br>
 
-<div><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width: 210px; border:1px solid; margin-left: 0px; margin-right: 50px" align="left"> 
+<div><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width: 275px; border:1px solid; margin-left: 0px; margin-right: 50px" align="left"> 
 
 Welcome to my website!
 
-I am a PhD candidate at the Kelley School of Business, Indiana University. 
+I am a postdoctoral fellow in the Department of Marketing, Business Economics, and Law (MBEL) at the Alberta School of Business. I received my Ph.D. from the Kelley School of Business, Indiana University. 
 
 My fields of interest include the economics of healthcare and financial markets. In my current research I study the behavior of healthcare providers and its implications for patient health and medical expenditure.
 
-Email: <span style="color:navy">yw113[at]iu[dot]edu</span>
+Email: <span style="color:navy">yanhao.wang[at]ualberta[dot]ca</span>
 
-[<button class="button-13" role="button">CV</button>](files/cv/CV_YanhaoWang_June2024.pdf)</div>
+[<button class="button-13" role="button">CV</button>](files/cv/CV.pdf)</div>
