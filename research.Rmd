@@ -19,9 +19,10 @@ pagetitle: "Yanhao Wang - Research"
 -->
 
 
+
+- **The Value of Group Purchasing: Evidence from the U.S. Hospital Industry**<br> 
+ with Haizhen Lin, *R&R*. <br>
 <!--
-- **[The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](files/papers/GPO_LinWang_2023.pdf)** <br> 
- with Haizhen Lin, R&R at the *Journal of Public Economics*. <br>
 -- Presented at IIOC (2023), ASHEcon (2023)
 <details>
 <summary>Abstract</summary>
