@@ -9,7 +9,7 @@ pagetitle: "Yanhao Wang - Teaching"
 ### <span style="font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">At University of Alberta:<span>
 
 [Business Economics, Organizations and Management](https://apps.ualberta.ca/catalogue/course/buec/211) (Instructor, Fall 2024) <br>
-[Introduction to International Business](https://apps.ualberta.ca/catalogue/course/buec/342) (Instructor, Spring 2025)
+[Introduction to International Business](https://apps.ualberta.ca/catalogue/course/buec/342) (Instructor, Winter 2025)
 
 ### <span style="font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">At Indiana University:<span>
 
