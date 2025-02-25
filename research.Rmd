@@ -21,7 +21,7 @@ pagetitle: "Yanhao Wang - Research"
 
 
 - **The Value of Group Purchasing: Evidence from the U.S. Hospital Industry**<br> 
- with Haizhen Lin, R&R at the *Journal of Public Economics*. <br>
+ with Haizhen Lin, conditionally accepted at the *Journal of Public Economics*. <br>
 <!--
 -- Presented at IIOC (2023), ASHEcon (2023)
 <details>
