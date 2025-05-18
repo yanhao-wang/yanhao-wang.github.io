@@ -7,7 +7,7 @@ pagetitle: "Yanhao Wang - Home"
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-<div style="text-align: center"><span style="color:Navy; font-size: 27pt; font-family:'Georgia'" ><b>Yanhao Wang</b></span></div>
+<div style="text-align: center"><span style="color:Navy; font-size: 27pt; font-family:'Georgia'" ><b>[Yanhao Wang](https://www.chinesenamesinenglish.com/wiki/Yanhao)</b></span></div>
 
 <!--
 &nbsp;&nbsp; <span style="color:Black; font-size: 19pt; font-family:STFangsong" >王<b>彦皓</b></span> <a href="https://www.chinesenamesinenglish.com/wiki/Yanhao" style="color:rgb(128,139,150)"> /jen-haʊ/ </a>
@@ -15,13 +15,13 @@ pagetitle: "Yanhao Wang - Home"
 
 <br>
 
-<div><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width: 270px; border:1px solid; margin-left: 0px; margin-right: 50px" align="left"> 
+<div><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width: 245px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
 
 Welcome to my website!
 
 I am a postdoctoral fellow in Business Economics at the Alberta School of Business, University of Alberta. I received my Ph.D. from the Kelley School of Business, Indiana University. 
 
-My fields of interest include the economics of healthcare and financial markets. In my current research I study the behavior of healthcare providers and its implications for patient health and medical expenditure.
+My fields of interest include health economics, household finance, and industrial organization. 
 
 Email: <span style="color:navy">yanhao.wang [at] ualberta.ca</span>
 

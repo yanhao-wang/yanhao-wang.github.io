@@ -47,7 +47,7 @@ a:active {
   background-color: #fff;
   border: 1px solid navy;
   border-radius: 10px;
-  box-shadow: rgba(113, 113, 113, .5) 0 2px 5px 0;
+  box-shadow: rgba(113, 113, 113, .5) 0 0 0 0;
   box-sizing: border-box;
   color: navy;
   cursor: pointer;
@@ -55,7 +55,7 @@ a:active {
   font-family: "Amazon Ember",sans-serif;
   font-size: 13px;
   line-height: 13px;
-  padding: 0 5px 0 5px;
+  padding: 0 0 0 0;
   position: relative;
   text-align: center;
   text-decoration: none;
@@ -63,19 +63,18 @@ a:active {
   -webkit-user-select: none;
   touch-action: manipulation;
   vertical-align: middle;
-  width: 270px;
-  height: 27px;
+  width: 245px;
+  height: 26px;
 }
 
 .button-13:hover {
-  background-color: rgba(198, 198, 198, 0.8);
+  background-color: rgba(227, 227, 247, 0.8);
+  font-size: 14px;
   font-weight: bold;
 }
 
 .button-13:focus {
   border-color: #008296;
-  box-shadow: rgba(113, 113, 113, .5) 0 2px 5px 0;
+  box-shadow: rgba(113, 113, 113, .5) 5px 5px 5px 5px;
   outline: 0;
 }
-
-s
