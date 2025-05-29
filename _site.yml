@@ -1,22 +1,22 @@
 name: "Yanhao Wang"
 output_dir: "."
-navbar:
-  title: "Home"
-  left:
+# navbar:
+  # title: "Home"
+  # left:
    # - text: "Home"
    #   href: home.html
-    - text: "Research"
-      href: research.html
-      title: "Research"
-    - text: "Teaching"
-      href: teaching.html
+    # - text: "Research"
+    #   href: research.html
+    #   title: "Research"
+    # - text: "Teaching"
+    #   href: teaching.html
    # - text: "Resources"
    #   href: resource.html
     # - text: "About Me"
     #   href: aboutme.html
    # - text: "COVID-19 Updates"
    #   href: covid19.html
-  right:
+  # right:
    # - icon: ai-cv ai-lg
    #  href:
    # - icon: fa-envelope fa-lg
