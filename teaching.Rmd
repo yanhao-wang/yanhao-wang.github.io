@@ -16,9 +16,3 @@ pagetitle: "Yanhao Wang - Teaching"
 [Introduction to Managerial Economics and Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G300-63) (Instructor, Fall 2020--2021) <br>
 [Economics of Healthcare Analytics](https://oneill.indiana.edu/doc/masters/mshm-curriculum.pdf) (TA, Spring 2020--2024) <br> 
 [Game Theory for Business Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G303-64) (TA, Fall 2018) <br>
-
-
-
-<!--
-<span style="color:Navy;font-family:'Arial';font-size:13pt;font-weight:bold"><u>[Teaching Evaluation](https://drive.google.com/file/d/1l5h_yFHahG93Va268Km_xyEwjq0hn8A0/view?usp=sharing)</u><span>
--->
