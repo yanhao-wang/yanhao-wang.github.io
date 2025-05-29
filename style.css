@@ -63,13 +63,13 @@ a:active {
   -webkit-user-select: none;
   touch-action: manipulation;
   vertical-align: middle;
-  width: 245px;
-  height: 26px;
+  width: 210px;
+  height: 23px;
 }
 
 .button-13:hover {
   background-color: rgba(227, 227, 247, 0.8);
-  font-size: 14px;
+  font-size: 13px;
   font-weight: bold;
 }
 
