@@ -19,7 +19,7 @@ I am a Postdoctoral Fellow in Business Economics at the Alberta School of Busine
 
 Email: <span style="color:navy">yanhao.wang [at] ualberta.ca</span>
 
-[<button class="button-13" role="button">CV</button>](files/CV.pdf)</div>
+[<button class="button-13" role="button">CV</button>](files/cv/aux/cv.pdf)</div>
 
 <br>
 
