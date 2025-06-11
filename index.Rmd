@@ -24,8 +24,7 @@ Email: <span style="color:navy">yanhao.wang [at] ualberta.ca</span>
 <br>
 
 ### <span style="color:Black;font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">Working papers<span>
-- [Does Physician Financial Health Affect Medical Treatment and Patient Outcomes?](https://dx.doi.org/10.2139/ssrn.4981721) <br>
- *New draft coming soon*.
+- [Does Physician Financial Health Affect Medical Treatment and Patient Outcomes?](files/paper/PhysicianFinancialHealth_YanhaoWang_June2025.pdf) 
 
 ### <span style="color:Black;font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">Publications<span>
 - [The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](https://doi.org/10.1016/j.jpubeco.2025.105380)<br> 
