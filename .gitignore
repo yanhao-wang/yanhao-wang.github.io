@@ -7,3 +7,6 @@ files/cv/*
 !files/cv/aux
 files/cv/aux/*
 !files/cv/aux/cv.pdf
+
+.DS_Store
+**/.DS_Store
