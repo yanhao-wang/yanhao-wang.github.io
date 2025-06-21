@@ -15,7 +15,7 @@ pagetitle: "Yanhao Wang"
 
 Welcome to my website!
 
-I am a Postdoctoral Fellow in Business Economics at the Alberta School of Business, University of Alberta. I received my Ph.D. from the Kelley School of Business, Indiana University. I work on topics in health economics, household finance, and industrial organization. 
+I am an Assistant Professor in Business Economics at the Alberta School of Business, University of Alberta (starting July 2025). I received my Ph.D. from the Kelley School of Business, Indiana University. I work on topics in health economics, household finance, and industrial organization. 
 
 Email: <span style="color:navy">yanhao.wang [at] ualberta.ca</span>
 
