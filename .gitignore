@@ -4,9 +4,8 @@
 .Ruserdata
 
 files/cv/*
-!files/cv/aux
-files/cv/aux/*
-!files/cv/aux/cv.pdf
+!files/cv/cv.tex
+!files/cv/cv.pdf
 
 .DS_Store
 **/.DS_Store

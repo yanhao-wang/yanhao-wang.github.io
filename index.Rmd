@@ -15,16 +15,18 @@ pagetitle: "Yanhao Wang"
 
 Welcome to my website!
 
-I am an Assistant Professor in Business Economics at the Alberta School of Business, University of Alberta (starting July 2025). I received my Ph.D. from the Kelley School of Business, Indiana University. I work on topics in health economics, household finance, and industrial organization. 
+I am an Assistant Professor in Business Economics at the Alberta School of Business, University of Alberta (starting July 2025). I received my Ph.D. from the Kelley School of Business, Indiana University. I work on health economics, household finance, and industrial organization. 
 
 Email: <span style="color:navy">yanhao.wang [at] ualberta.ca</span>
 
-[<button class="button-13" role="button">CV</button>](files/cv/aux/cv.pdf)</div>
+[<button class="button-13" role="button">CV</button>](files/cv/cv.pdf)</div>
 
 <br>
 
 ### <span style="color:Black;font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">Working papers<span>
 - [Does Physician Financial Health Affect Medical Treatment and Patient Outcomes?](files/paper/PhysicianFinancialHealth_YanhaoWang_June2025.pdf) 
+- [Race-Specific Provider Performance: Evidence from Black Lives Matter Protests]()<br>
+with Haizhen Lin and Jia Xiang.
 
 ### <span style="color:Black;font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">Publications<span>
 - [The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](https://doi.org/10.1016/j.jpubeco.2025.105380)<br> 
@@ -34,9 +36,9 @@ with Chun-Yu Ho and Patrick McCarthy, *Journal of Air Transport Management (2021
 - [Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China](https://doi.org/10.1016/j.retrec.2020.100996)<br>
 with Chun-Yu Ho and Patrick McCarthy, *Research in Transportation Economics (2020)*.
 
-### <span style="color:Black;font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">Teaching<span>
+<!-- ### <span style="color:Black;font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">Teaching<span>
 - [Business Economics, Organizations and Management](https://apps.ualberta.ca/catalogue/course/buec/211) *(University of Alberta, Instructor, Fall 2024)*
 - [Introduction to International Business](https://apps.ualberta.ca/catalogue/course/buec/342) *(University of Alberta, Instructor, Winter 2025)*
 - [Introduction to Managerial Economics and Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G300-63) *(Indiana University, Instructor, Fall 2020--2021)* 
 - [Economics of Healthcare Analytics](https://oneill.indiana.edu/doc/masters/mshm-curriculum.pdf) *(Indiana University, TA, Spring 2020--2024)* 
-- [Game Theory for Business Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G303-64) *(Indiana University, TA, Fall 2018)* 
+- [Game Theory for Business Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G303-64) *(Indiana University, TA, Fall 2018)*  -->
