@@ -11,11 +11,11 @@ pagetitle: "Yanhao Wang"
 
 <br>
 
-<div><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width: 210px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
+<div><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width: 203px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
 
 Welcome to my website!
 
-I am an Assistant Professor in Business Economics at the Alberta School of Business, University of Alberta (starting July 2025). I received my Ph.D. from the Kelley School of Business, Indiana University. I work on topics in health economics, household finance, and industrial organization. 
+I am an Assistant Professor of Business Economics at the Alberta School of Business, University of Alberta. I graduated with my Ph.D. from the Kelley School of Business, Indiana University. I currently work on topics in health economics, household finance, and industrial organization. 
 
 Email: <span style="color:navy">yanhao.wang [at] ualberta.ca</span>
 
@@ -24,18 +24,17 @@ Email: <span style="color:navy">yanhao.wang [at] ualberta.ca</span>
 <br>
 
 ### <span style="color:rgba(0, 0, 0, 0.66);font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">Working papers<span>
-- [Does Physician Financial Health Affect Medical Treatment and Patient Outcomes?]()<br>
-\ constantly revised, please email for the most updated draft.
-- [Race-Specific Provider Performance: Evidence from Black Lives Matter Protests]()<br>
-\ with Haizhen Lin and Jia Xiang.
+- [Does Physician Financial Health Affect Medical Treatment and Patient Outcomes?](files/paper/Wang_physician_finance_July_2025.pdf) 
+- [Race-Specific Provider Performance: Evidence from Black Lives Matter Protests]() 
+<br> with Haizhen Lin and Jia Xiang
 
 ### <span style="color:rgba(0, 0, 0, 0.66);font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">Publications<span>
-- [The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](https://doi.org/10.1016/j.jpubeco.2025.105380)<br> 
-\ with Haizhen Lin, *Journal of Public Economics (2025)*. 
-- [Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger](https://doi.org/10.1016/j.jairtraman.2020.101990)<br>
-\ with Chun-Yu Ho and Patrick McCarthy, *Journal of Air Transport Management (2021)*.
-- [Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China](https://doi.org/10.1016/j.retrec.2020.100996)<br>
-\ with Chun-Yu Ho and Patrick McCarthy, *Research in Transportation Economics (2020)*.
+- [The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](https://doi.org/10.1016/j.jpubeco.2025.105380) 
+<br> with Haizhen Lin, *Journal of Public Economics (2025)*. 
+- [Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger](https://doi.org/10.1016/j.jairtraman.2020.101990)
+<br> with Chun-Yu Ho and Patrick McCarthy, *Journal of Air Transport Management (2021)*.
+- [Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China](https://doi.org/10.1016/j.retrec.2020.100996) 
+<br> with Chun-Yu Ho and Patrick McCarthy, *Research in Transportation Economics (2020)*.
 
 <!-- ### <span style="color:Black;font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">Teaching<span>
 - [Business Economics, Organizations and Management](https://apps.ualberta.ca/catalogue/course/buec/211) *(University of Alberta, Instructor, Fall 2024)*

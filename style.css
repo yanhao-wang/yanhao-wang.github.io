@@ -1,8 +1,8 @@
 /* Whole document: */
 body{
   font-family: Palatino;
-  font-size: 13pt;
-  word-spacing: 0.05em;
+  font-size: 12.6pt;
+  word-spacing: 0.04em;
   line-height: 1.8
 }
 
@@ -63,7 +63,7 @@ a:active {
   -webkit-user-select: none;
   touch-action: manipulation;
   vertical-align: middle;
-  width: 210px;
+  width: 203px;
   height: 23px;
 }
 
