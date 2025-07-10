@@ -7,15 +7,15 @@ pagetitle: "Yanhao Wang"
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-<div style="text-align: center"><span style="color:Navy; font-size: 26pt; font-family:'Georgia'" ><b>[Yanhao Wang](https://www.chinesenamesinenglish.com/wiki/Yanhao)</b></span></div>
+<div style="text-align: center"><span style="color:Navy; font-size: 26pt; font-family:Arial" ><b>[Yanhao Wang](https://www.chinesenamesinenglish.com/wiki/Yanhao)</b></span></div>
 
 <br>
 
-<div><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width: 203px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
+<div><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width: 197px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
 
 Welcome to my website!
 
-I am an Assistant Professor of Business Economics at the Alberta School of Business, University of Alberta. I graduated with my Ph.D. from the Kelley School of Business, Indiana University. I currently work on topics in health economics, household finance, and industrial organization. 
+I am an Assistant Professor of Business Economics at the Alberta School of Business, University of Alberta. I received my Ph.D. from the Kelley School of Business, Indiana University. I work on topics in health care, household finance, and industrial organization.
 
 Email: <span style="color:navy">yanhao.wang [at] ualberta.ca</span>
 
