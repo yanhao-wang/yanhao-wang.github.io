@@ -1,3 +1,8 @@
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
 .Rproj.user
 .Rhistory
 .RData
@@ -7,5 +12,3 @@ files/cv/*
 !files/cv/cv.tex
 !files/cv/cv.pdf
 
-.DS_Store
-**/.DS_Store
