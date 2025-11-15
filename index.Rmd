@@ -24,10 +24,10 @@ Email: <span style="color:navy">yanhao.wang [at] ualberta.ca</span>
 <br>
 
 ### <span style="color:rgba(0, 0, 0, 0.66);font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">Selected working papers<span>
-- [Does Physicians' Financial Health Affect Medical Treatment and Patient Outcomes?](files/paper/Physician Financial Health_Yanhao Wang_July 2025.pdf) [[*SSRN*](https://ssrn.com/abstract=4981721)]
-<br>  *new draft coming soon*
+- [Does Physicians' Financial Health Affect Medical Treatment and Patient Outcomes?](https://ssrn.com/abstract=4981721) 
+<br> [[<span style="color: black">*updated draft*</span>](files/paper/Physician Financial Health_Yanhao Wang_Nov 2025.pdf)]
 - [Race-Specific Provider Performance: Evidence from Black Lives Matter Protests]() 
-<br> with Haizhen Lin and Jia Xiang, *new draft coming soon*
+<br> with Haizhen Lin and Jia Xiang, [*new draft coming soon*]
 
 ### <span style="color:rgba(0, 0, 0, 0.66);font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">Publications<span>
 - [The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](https://doi.org/10.1016/j.jpubeco.2025.105380) 
