@@ -53,7 +53,7 @@ a:active {
 .button-13 {
   background-color: #fff;
   border: 1px solid navy;
-  border-radius: 10px;
+  border-radius: 3px;
   box-shadow: rgba(113, 113, 113, .5) 0 0 0 0;
   box-sizing: border-box;
   color: navy;
@@ -70,8 +70,9 @@ a:active {
   -webkit-user-select: none;
   touch-action: manipulation;
   vertical-align: middle;
-  width: 197px;
+  width: 113px;
   height: 23px;
+  /* margin: -1px 0 0 0; */
 }
 
 .button-13:hover {

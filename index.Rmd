@@ -11,15 +11,16 @@ pagetitle: "Yanhao Wang"
 
 <br>
 
-<div><img src="images/KSB_YanhaoWang_2018Fall_compact.jpg" style="width: 197px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
+<div><img src="images/ASB_YanhaoWang_2025Fall_horizontal.jpg" style="width: 230px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
 
 Welcome to my website!
 
 I am an Assistant Professor of Business Economics at the Alberta School of Business, University of Alberta. I received my Ph.D. from the Kelley School of Business, Indiana University. I work on topics in health care, household finance, and industrial organization.
 
-Email: <span style="color:navy">yanhao.wang [at] ualberta.ca</span>
+<!-- Email: <span style="color:navy">yanhao.wang [at] ualberta.ca</span> -->
 
-[<button class="button-13" role="button">CV</button>](files/cv/cv.pdf)</div>
+<div style="display: inline-block;"> [<button class="button-13" role="button">CV</button>](files/cv/cv.pdf) <a href="mailto:yanhao11@ualberta.ca"><button class="button-13" role="button">Email</button></a> </div>
+
 
 <br>
 
