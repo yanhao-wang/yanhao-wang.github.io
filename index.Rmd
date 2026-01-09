@@ -29,7 +29,7 @@ I am an Assistant Professor of Business Economics at the Alberta School of Busin
 <br> [<span style="color: black">[*SSRN*]</span>](https://ssrn.com/abstract=4981721) 
 - [Race-Specific Provider Performance: Evidence from Black Lives Matter Protests](files/paper/Hospital Performance BLM_Lin_Wang_Xiang_Dec 2025.pdf) 
 <br> with Haizhen Lin and Jia Xiang
-- [Political Partisanship and Team Performance: Evidence from Doctors]() 
+- [Agreeing to Disagree: Political Partisanship and Team Performance in Healthcare]() 
 <br> with Haizhen Lin and Jia Xiang (*draft coming soon*)
 
 ### <span style="color:rgba(0, 0, 0, 0.66);font-family:'Arial';font-size:13pt;font-weight:bold;line-height:2em">Publications<span>
