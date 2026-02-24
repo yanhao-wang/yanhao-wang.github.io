@@ -1,0 +1,59 @@
+---
+title: ""
+pagetitle: "Yanhao Wang"
+format:
+  html:
+    theme: cosmo
+    css: style.css
+    toc: false
+    page-layout: article
+---
+
+<br>
+
+<div style="text-align: center"><span style="color:Navy; font-size: 26pt; font-family:Verdana" ><b>Yanhao Wang</b></span></div>
+
+<br>
+
+<div>
+<img src="images/ASB_YanhaoWang_2025Fall_horizontal.jpg" style="width: 243px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left">
+
+Welcome to my website!
+
+I am an Assistant Professor of Business Economics at the Alberta School of Business, University of Alberta. I received my Ph.D. from the Kelley School of Business, Indiana University. I work on topics in health care, household finance, and industrial organization.
+
+<!-- Email: <span style="color:navy">yanhao.wang [at] ualberta.ca</span> -->
+
+<div style="display: inline-block;">
+[<button class="button-13" role="button">CV</button>](files/cv/cv.pdf)
+<a href="mailto:yanhao11@ualberta.ca"><button class="button-13" role="button">Email</button></a>
+</div>
+
+<br>
+
+### <span style="color:rgba(0, 0, 0, 0.66);font-family:'Arial';font-size:13.5pt;font-weight:bold;line-height:2em">Selected Working Projects</span>
+
+- [Does Physicians' Financial Health Affect Medical Treatment and Patient Outcomes?](files/paper/Physician Financial Health_Yanhao Wang_Nov 2025.pdf)
+<br> revise & resubmit, *American Economic Journal: Economic Policy*
+- [Race-Specific Provider Performance: Evidence from Black Lives Matter Protests](files/paper/Hospital Performance BLM_Lin_Wang_Xiang_Dec 2025.pdf)
+<br> with Haizhen Lin and Jia Xiang (*this draft: Dec 2025*)
+- [Agreeing to Disagree: Political Partisanship and Team Performance in Healthcare]()
+<br> with Haizhen Lin and Jia Xiang (*draft available upon request*)
+
+### <span style="color:rgba(0, 0, 0, 0.66);font-family:'Arial';font-size:13pt;font-weight:bold;line-height:2em">Publications</span>
+
+- [The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](https://doi.org/10.1016/j.jpubeco.2025.105380)
+<br> with Haizhen Lin, *Journal of Public Economics (2025)*
+- [Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger](https://doi.org/10.1016/j.jairtraman.2020.101990)
+<br> with Chun-Yu Ho and Patrick McCarthy, *Journal of Air Transport Management (2021)*
+- [Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China](https://doi.org/10.1016/j.retrec.2020.100996)
+<br> with Chun-Yu Ho and Patrick McCarthy, *Research in Transportation Economics (2020)*
+
+</div>
+
+<!-- ### <span style="color:Black;font-family:'Arial';font-size:15pt;font-weight:bold;line-height:2em">Teaching</span>
+- [Business Economics, Organizations and Management](https://apps.ualberta.ca/catalogue/course/buec/211) *(University of Alberta, Instructor, Fall 2024)*
+- [Introduction to International Business](https://apps.ualberta.ca/catalogue/course/buec/342) *(University of Alberta, Instructor, Winter 2025)*
+- [Introduction to Managerial Economics and Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G300-63) *(Indiana University, Instructor, Fall 2020--2021)*
+- [Economics of Healthcare Analytics](https://oneill.indiana.edu/doc/masters/mshm-curriculum.pdf) *(Indiana University, TA, Spring 2020--2024)*
+- [Game Theory for Business Strategy](https://kelley.iu.edu/faculty-research/courses/course.html?ID=BUS-G303-64) *(Indiana University, TA, Fall 2018)* -->

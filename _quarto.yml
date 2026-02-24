@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: "."
+  render:
+    - "index.qmd"
+
+website:
+  title: "Yanhao Wang"
+  favicon: ""
+  navbar: false
+
+format:
+  html:
+    theme: cosmo
+    css: style.css
+    toc: false
+    code-tools: false
+    html-math-method: mathjax
+    page-layout: article
+
+execute:
+  freeze: auto

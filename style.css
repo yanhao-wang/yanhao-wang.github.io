@@ -35,18 +35,22 @@ figcaption {
 /* Links */
 a:link {
   color: navy;
+  text-decoration: none;
 }
 
 a:visited {
   color: navy;
+  text-decoration: none;
 }
 
 a:hover {
   color: blue;
+  text-decoration: underline;
 }
 
 a:active {
   color: blue;
+  text-decoration: underline;
 }
 
 /* Buttons */
@@ -70,9 +74,8 @@ a:active {
   -webkit-user-select: none;
   touch-action: manipulation;
   vertical-align: middle;
-  width: 113px;
-  height: 23px;
-  /* margin: -1px 0 0 0; */
+  width: 119px;
+  height: 25px;
 }
 
 .button-13:hover {

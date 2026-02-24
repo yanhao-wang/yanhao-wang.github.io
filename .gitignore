@@ -3,12 +3,13 @@
 **/.DS_Store
 **/._.DS_Store
 
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+/.quarto/
+**/*.quarto_ipynb
 
 files/cv/*
 !files/cv/cv.tex
 !files/cv/cv.pdf
 
+
+/.quarto/
+**/*.quarto_ipynb
