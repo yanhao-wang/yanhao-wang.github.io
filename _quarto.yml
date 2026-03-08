@@ -8,6 +8,7 @@ website:
   title: "Yanhao Wang"
   favicon: ""
   navbar: false
+  google-analytics: "G-6BH5BCFHKP"
 
 format:
   html:
