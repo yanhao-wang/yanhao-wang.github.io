@@ -8,7 +8,7 @@
 body{
   font-family: Palatino;
   font-size: 12.5pt;
-  color: black;;
+  color: black;
   word-spacing: 0.04em;
   line-height: 1.75
 }
@@ -51,6 +51,41 @@ a:hover {
 a:active {
   color: blue;
   text-decoration: underline;
+}
+
+/* Name heading */
+.name-container {
+  text-align: center;
+}
+
+.name-text {
+  color: Navy;
+  font-size: 26pt;
+  font-family: Verdana;
+  font-weight: bold;
+}
+
+/* Headshot */
+.headshot {
+  width: 243px;
+  border: 0.3px solid;
+  margin-left: 0px;
+  margin-right: 50px;
+  float: left;
+}
+
+/* Button container */
+.button-container {
+  display: inline-block;
+}
+
+/* Section headings */
+.section-heading {
+  color: rgba(0, 0, 0, 0.66);
+  font-family: 'Arial';
+  font-size: 13.5pt;
+  font-weight: bold;
+  line-height: 2em;
 }
 
 /* Buttons */

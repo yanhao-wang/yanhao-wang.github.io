@@ -11,12 +11,12 @@ format:
 
 <br>
 
-<div style="text-align: center"><span style="color:Navy; font-size: 26pt; font-family:Verdana" ><b>Yanhao Wang</b></span></div>
+<div class="name-container"><span class="name-text">Yanhao Wang</span></div>
 
 <br>
 
 <div>
-<img src="images/ASB_YanhaoWang_2025Fall_horizontal.jpg" style="width: 243px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left">
+<img src="images/ASB_YanhaoWang_2025Fall_horizontal.jpg" class="headshot">
 
 Welcome to my website!
 
@@ -24,14 +24,14 @@ I am an Assistant Professor of Business Economics at the Alberta School of Busin
 
 <!-- Email: <span style="color:navy">yanhao.wang [at] ualberta.ca</span> -->
 
-<div style="display: inline-block;">
+<div class="button-container">
 [<button class="button-13" role="button">CV</button>](files/cv/cv.pdf)
 <a href="mailto:yanhao11@ualberta.ca"><button class="button-13" role="button">Email</button></a>
 </div>
 
 <br>
 
-### <span style="color:rgba(0, 0, 0, 0.66);font-family:'Arial';font-size:13.5pt;font-weight:bold;line-height:2em">Selected Working Projects</span>
+### <span class="section-heading">Selected Working Projects</span>
 
 - [Does Physicians' Financial Health Affect Medical Treatment and Patient Outcomes?](files/paper/Physician Financial Health_Yanhao Wang_Nov 2025.pdf)
 <br> revise & resubmit, *American Economic Journal: Economic Policy*
@@ -40,7 +40,7 @@ I am an Assistant Professor of Business Economics at the Alberta School of Busin
 - [Agreeing to Disagree: Political Partisanship and Team Performance in Healthcare]()
 <br> with Haizhen Lin and Jia Xiang (*draft available upon request*)
 
-### <span style="color:rgba(0, 0, 0, 0.66);font-family:'Arial';font-size:13pt;font-weight:bold;line-height:2em">Publications</span>
+### <span class="section-heading">Publications</span>
 
 - [The Value of Group Purchasing: Evidence from the U.S. Hospital Industry](https://doi.org/10.1016/j.jpubeco.2025.105380)
 <br> with Haizhen Lin, *Journal of Public Economics (2025)*
