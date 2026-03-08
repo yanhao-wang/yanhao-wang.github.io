@@ -9,6 +9,7 @@ website:
   favicon: ""
   navbar: false
   google-analytics: "G-6BH5BCFHKP"
+  search: false
 
 format:
   html:
@@ -18,6 +19,3 @@ format:
     code-tools: false
     html-math-method: mathjax
     page-layout: article
-
-execute:
-  freeze: auto
