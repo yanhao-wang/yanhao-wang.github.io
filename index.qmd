@@ -1,12 +1,6 @@
 ---
 title: ""
 pagetitle: "Yanhao Wang"
-format:
-  html:
-    theme: cosmo
-    css: style.css
-    toc: false
-    page-layout: article
 ---
 
 <br>

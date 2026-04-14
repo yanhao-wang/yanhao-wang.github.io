@@ -6,10 +6,12 @@
 
 /.quarto/
 **/*.quarto_ipynb
+search.json
 
 files/cv/*
 !files/cv/cv.tex
 !files/cv/cv.pdf
+!files/cv/res.cls
 
 .claude/
 CLAUDE.md
