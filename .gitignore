@@ -11,6 +11,6 @@ files/cv/*
 !files/cv/cv.tex
 !files/cv/cv.pdf
 
-
-/.quarto/
-**/*.quarto_ipynb
+.claude/
+CLAUDE.md
+.vscode/
