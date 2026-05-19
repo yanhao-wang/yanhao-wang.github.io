@@ -15,21 +15,31 @@
 
 \usepackage{xr-hyper}
 \usepackage[dvipsnames]{xcolor}
-\definecolor{mycolor}{HTML}{F7F8E0}
+\definecolor{mycolor}{HTML}{385466}
 \definecolor{myblue}{RGB}{0,0,125}
 \definecolor{myred}{RGB}{150,0,0}
 \usepackage[bookmarks=true,citebordercolor={1 1 1}]{hyperref}
 \hypersetup{
      colorlinks   = true,
      citecolor    = myblue,
-     urlcolor     = black,
-     linkcolor    = black
+     urlcolor     = mycolor,
+     linkcolor    = myred
 }
 \urlstyle{sf}
 
 \usepackage{datetime}
 \newdateformat{monthyeardate}{%
   \monthname[\THEMONTH] \THEYEAR}
+
+\newcommand{\sectionbodyspace}{\vspace{1.5em}}
+\newenvironment{cvitems}{%
+  \begin{itemize}[leftmargin=15pt,labelindent=-15pt,itemindent=-15pt,itemsep=0.2em]
+}{%
+  \end{itemize}
+}
+\newcommand{\cvitem}[1]{\item[] #1}
+\newcommand{\cvgroup}[1]{\item[] \textit{#1}}
+\newcommand{\cvdated}[2]{\item[] \hspace{13pt} #1 \hfill #2}
 
 \newcommand{\fullhrulefill}{%
    \vspace{-6pt}
@@ -58,88 +68,88 @@
 \vspace{3pt}
 
 \section{\large{\ul{POSITIONS}}}
-\vspace{1.8em}
-\begin{itemize}[leftmargin=15pt,labelindent=-15pt,itemindent=-15pt,itemsep=0.1em]
-  \item[] \textit{Alberta School of Business, University of Alberta}
-  \item[] \hspace{13pt} Assistant Professor of Business Economics \hfill    2025--
-  \item[] \hspace{13pt} Postdoctoral Fellow \hfill    2024--2025
-  \item[] \textit{Canadian Centre for Health Economics} 
-  \item[] \hspace{13pt} Faculty Associate \hfill    2024--
-\end{itemize}
+\sectionbodyspace
+\begin{cvitems}
+  \cvgroup{Alberta School of Business, University of Alberta}
+  \cvdated{Assistant Professor of Business Economics}{2025--}
+  \cvdated{Postdoctoral Fellow}{2024--2025}
+  \cvgroup{Canadian Centre for Health Economics}
+  \cvdated{Faculty Associate}{2024--}
+\end{cvitems}
 
 \section{\large{\ul{EDUCATION}}}
-\vspace{1.8em}
-\begin{itemize}[leftmargin=15pt,labelindent=-15pt,itemindent=-15pt,itemsep=0.1em]
-  \item[] \textit{Kelley School of Business, Indiana University} 
-  \item[] \hspace{13pt} Ph.D (Business Economics and Public Policy) \hfill    2018--2024 
-  \item[] \textit{Smith School of Business, Queen's University}                                         
-  \item[] \hspace{13pt} Exchange Student \hfill     2016
-  \item[] \textit{Shanghai Jiao Tong University}                                  
-  \item[] \hspace{13pt} M.Sc. in Economics     \hfill    2015--2018
-  \item[] \hspace{13pt} B.A. in Finance  \hfill    2011--2015
-\end{itemize}
+\sectionbodyspace
+\begin{cvitems}
+  \cvgroup{Kelley School of Business, Indiana University}
+  \cvdated{Ph.D in Business Economics and Public Policy}{2018--2024}
+  \cvgroup{Smith School of Business, Queen's University}
+  \cvdated{Exchange Student}{2016}
+  \cvgroup{Shanghai Jiao Tong University}
+  \cvdated{M.Sc. in Economics}{2015--2018}
+  \cvdated{B.A. in Finance}{2011--2015}
+\end{cvitems}
 
 \section{\large{\ul{RESEARCH INTERESTS}}}
-\vspace{1.8em}
-\begin{itemize}[leftmargin=15pt,labelindent=-15pt,itemindent=-15pt,itemsep=0.1em]
-  \item[] Health Economics, Household Finance, Industrial Organization 
-\end{itemize}
+\sectionbodyspace
+\begin{cvitems}
+  \cvitem{Health Economics, Household Finance, Industrial Organization}
+\end{cvitems}
 
 \section{\large{\ul{SELECTED WORKING PROJECTS}}}
-\vspace{1.8em}
-\begin{itemize}[leftmargin=15pt,labelindent=-15pt,itemindent=-15pt,itemsep=0.1em]
-    \item[] Does Physician's Financial Health Affect Medical Treatment and Patient Outcomes? \\
-    revise \& resubmit, \textit{American Economic Journal: Economic Policy}
-    \item[] Race-Specific Provider Performance: Evidence from BLM Protests (with Haizhen Lin and Jia Xiang)
-    \item[] Agreeing to Disagree: Political Partisanship and Team Performance in Healthcare (with Haizhen Lin and Jia Xiang)
-\end{itemize}
+\sectionbodyspace
+\begin{cvitems}
+    \cvitem{Does Physician's Financial Health Affect Medical Treatment and Patient Outcomes? \\
+    revise \& resubmit, \textit{American Economic Journal: Economic Policy}}
+    \cvitem{Race-Specific Provider Performance: Evidence from BLM Protests (with Haizhen Lin and Jia Xiang)}
+    \cvitem{Agreeing to Disagree: Political Partisanship and Team Performance in Healthcare (with Haizhen Lin and Jia Xiang)}
+\end{cvitems}
 
 \section{\large{\ul{PUBLICATIONS}}}
-\vspace{1.8em}
-\begin{itemize}[leftmargin=15pt,labelindent=-15pt,itemindent=-15pt,itemsep=0.1em]
-    \item[] The Value of Group Purchasing: Evidence from the U.S. Hospital Industry (with Haizhen Lin), \textit{Journal of Public Economics} (2025)
-    \item[] Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger (with Chun-Yu Ho and Patrick McCarthy), \textit{Journal of Air Transport Management} (2021)
-    \item[] Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China (with Chun-Yu Ho and Patrick McCarthy), \textit{Research in Transportation Economics} (2020)
-\end{itemize}
+\sectionbodyspace
+\begin{cvitems}
+    \cvitem{The Value of Group Purchasing: Evidence from the U.S. Hospital Industry (with Haizhen Lin), \textit{Journal of Public Economics} (2025)}
+    \cvitem{Competition and Countervailing Power: Evidence from China Eastern and Shanghai Airlines Merger (with Chun-Yu Ho and Patrick McCarthy), \textit{Journal of Air Transport Management} (2021)}
+    \cvitem{Decomposing Sources of Gain from Airline Mergers: A Model and Case Study from China (with Chun-Yu Ho and Patrick McCarthy), \textit{Research in Transportation Economics} (2020)}
+\end{cvitems}
 
 \section{\large{\ul{TEACHING}}}
-\vspace{1.8em}
-\begin{itemize}[leftmargin=15pt,labelindent=-15pt,itemindent=-15pt,itemsep=0.1em]
-\item[] \textit{University of Alberta}
-    \item[] \hspace{13pt} Business Economics, Organizations and Management \hfill F24, F25
-    \item[] \hspace{13pt} Introduction to International Business \hfill W25, W26
-\item[] \textit{Indiana University}
-    \item[] \hspace{13pt} Introduction to Managerial Economics and Strategy \hfill F20, F21
-    \item[] \hspace{13pt} Economics of Healthcare Analytics (TA) \hfill S20, S21, S22, S23
-    % \item[] \hspace{13pt} Undergraduate Game Theory (TA) \hfill F18
-\end{itemize}
+\sectionbodyspace
+\begin{cvitems}
+\cvgroup{University of Alberta}
+    \cvdated{Business Economics, Organizations and Management}{F24, F25, F26}
+    \cvdated{Introduction to International Business}{W25, W26}
+\cvgroup{Indiana University}
+    \cvdated{Introduction to Managerial Economics and Strategy}{F20, F21}
+    \cvdated{Economics of Healthcare Analytics (TA)}{S20, S21, S22, S23}
+    % \cvdated{Undergraduate Game Theory (TA)}{F18}
+\end{cvitems}
 
 \section{\large{\ul{AWARDS, GRANTS \& HONORS}}}
-\vspace{1.8em}
-\begin{itemize}[leftmargin=15pt,labelindent=-15pt,itemindent=-15pt,itemsep=0.1em]
-  \item[] \textit{Social Sciences and Humanities Research Council of Canada (SSHRC)}
-      \item[] \hspace{13pt} Insight Development Grant (Co-PI, CA\$72,357) \hfill 2025--2027
-\item[] \textit{University of Alberta}
-    \item[] \hspace{13pt} Alberta Innovates Postdoctoral Recruitment Fellowship (PI, CA\$70,000)\hfill 2024
-\item[] \textit{Indiana University}
-    \item[] \hspace{13pt} Devault Graduate Fellowship \hfill 2023
-    \item[] \hspace{13pt} Harry Kelsey Doctoral Fellowship \hfill 2023
-    \item[] \hspace{13pt} Kelley School Doctoral Student Research Productivity Award \hfill 2019
-\item[] \textit{Shanghai Jiao Tong University}
-    \item[] \hspace{13pt} Graduate Scholarship for Excellence in Academic Performance \hfill 2017
-    \item[] \hspace{13pt} Outstanding Undergraduate of Shanghai City \hfill 2015
-\end{itemize}
+\sectionbodyspace
+\begin{cvitems}
+  \cvgroup{Social Sciences and Humanities Research Council of Canada (SSHRC)}
+      \cvdated{Insight Development Grant (Co-PI, CA\$72,357)}{2025--2027}
+\cvgroup{University of Alberta}
+    \cvdated{Alberta Innovates Postdoctoral Recruitment Fellowship (PI, CA\$70,000)}{2024}
+\cvgroup{Indiana University}
+    \cvdated{Devault Graduate Fellowship}{2023}
+    \cvdated{Harry Kelsey Doctoral Fellowship}{2023}
+    \cvdated{Kelley School Doctoral Student Research Productivity Award}{2019}
+\cvgroup{Shanghai Jiao Tong University}
+    \cvdated{Graduate Scholarship for Excellence in Academic Performance}{2017}
+    \cvdated{Outstanding Undergraduate of Shanghai City}{2015}
+\end{cvitems}
 
 \section{\large{\ul{CONFERENCE \& SEMINAR PRESENTATIONS}}}
-\vspace{1.8em}
-\begin{itemize}[leftmargin=15pt,labelindent=-15pt,itemindent=-15pt,itemsep=0.1em]
-\item[] \textit{2026}: NBER Economics of Health Program Meeting (Chicago)$^{\dagger}$, IIOC (Boston), CHESG Annual Meeting (Victoria)$^{*}$, ES North American Summer Meeting (Emory)$^{*}$
-\item[] \textit{2025}: FMA Annual Meeting (Vancouver), ES World Congress (Seoul), MRS International Risk Conference (Suffolk), IIOC (Philadelphia), Midwest Health Economics Conference (Notre Dame)$^{\dagger}$
-\item[] \textit{2024}: INFORMS Annual Meeting (Seattle), ASHEcon (San Diego), CES (Bucknell), Alberta School of Business, UMass–Amherst, UC–Irvine, University of Alaska–Anchorage, CUHK Business School
-\item[] \textit{2023}: IIOC (Washington DC), ASHEcon (St. Louis), Indiana O'Neill School 
-\item[] \textit{2022}: AMA Summer Conference (Chicago), ASHEcon (Austin) 
-\item[] \textit{$<$'22}: AEA (Atlanta), Meetings of the Econometric Society (Wuhan, Kyoto, Chengdu)
-\end{itemize}
+\sectionbodyspace
+\begin{cvitems}
+\cvitem{\textit{2026}: NBER Economics of Health Program Meeting (Chicago)$^{\dagger}$, IIOC (Boston), CHESG Annual Meeting (Victoria)$^{*}$, ES North American Summer Meeting (Emory)$^{*}$}
+\cvitem{\textit{2025}: FMA Annual Meeting (Vancouver), ES World Congress (Seoul), MRS International Risk Conference (Suffolk), IIOC (Philadelphia), Midwest Health Economics Conference (Notre Dame)$^{\dagger}$}
+\cvitem{\textit{2024}: INFORMS Annual Meeting (Seattle), ASHEcon (San Diego), CES (Bucknell), Alberta School of Business, UMass–Amherst, UC–Irvine, University of Alaska–Anchorage, CUHK Business School}
+\cvitem{\textit{2023}: IIOC (Washington DC), ASHEcon (St. Louis), Indiana O'Neill School}
+\cvitem{\textit{2022}: AMA Summer Conference (Chicago), ASHEcon (Austin)}
+\cvitem{\textit{$<$'22}: AEA (Atlanta), Meetings of the Econometric Society (Wuhan, Kyoto, Chengdu)}
+\end{cvitems}
 \hfill {\small (\textit{including in-person and virtual talks; $*$ scheduled; $\dagger$ by coauthors})}
 
 \end{resume}
