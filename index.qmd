@@ -27,9 +27,9 @@ I am an Assistant Professor of Business Economics at the Alberta School of Busin
 
 ### <span class="section-heading">Selected Working Projects</span>
 
-- [Does Physicians' Financial Health Affect Medical Treatment and Patient Outcomes?](files/paper/Physician Financial Health_Yanhao Wang_Nov 2025.pdf)
+- [Does Physicians' Financial Health Affect Medical Treatment and Patient Outcomes?](files/paper/Physician Financial Health_Yanhao Wang_Jun 2026.pdf)
 <br> revise & resubmit, *American Economic Journal: Economic Policy*
-- [Race-Specific Provider Performance: Evidence from Black Lives Matter Protests](files/paper/Hospital Performance BLM_Lin_Wang_Xiang_Jun 2026.pdf)
+- [Race-Specific Provider Performance: Evidence from Black Lives Matter Protests](files/paper/Hospital Performance BLM_Lin_Wang_Xiang_Dec 2025.pdf)
 <br> with Haizhen Lin and Jia Xiang (*this draft: Dec 2025*)
 - [Agreeing to Disagree: Political Partisanship and Team Performance in Healthcare]()
 <br> with Haizhen Lin and Jia Xiang (*draft available upon request*)
