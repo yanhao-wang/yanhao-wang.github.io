@@ -19,3 +19,5 @@ format:
     code-tools: false
     html-math-method: mathjax
     page-layout: article
+    grid:
+      body-width: 900px

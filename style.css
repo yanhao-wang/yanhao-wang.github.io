@@ -1,3 +1,9 @@
+:root {
+  --accent-color: #1c5343;
+  --accent-hover-color: #236b50;
+  --accent-hover-background: #edf4f0;
+}
+
 /* Whole document: */
 .main-container {
   max-width: 850px;
@@ -34,22 +40,22 @@ figcaption {
 
 /* Links */
 a:link {
-  color: navy;
+  color: var(--accent-color);
   text-decoration: none;
 }
 
 a:visited {
-  color: navy;
+  color: var(--accent-color);
   text-decoration: none;
 }
 
 a:hover {
-  color: blue;
+  color: var(--accent-hover-color);
   text-decoration: underline;
 }
 
 a:active {
-  color: blue;
+  color: var(--accent-hover-color);
   text-decoration: underline;
 }
 
@@ -59,24 +65,50 @@ a:active {
 }
 
 .name-text {
-  color: Navy;
-  font-size: 26pt;
-  font-family: Verdana;
-  font-weight: bold;
+  color: var(--accent-color);
+  font-size: 28pt;
+  font-family: "Avenir Next", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+/* Profile: keep the biography in its own column at intermediate widths. */
+.profile {
+  display: grid;
+  grid-template-columns: 243px minmax(0, 1fr);
+  grid-template-rows: auto 1fr;
+  column-gap: 50px;
+  row-gap: 20px;
+  align-items: start;
+}
+
+.portrait {
+  grid-column: 1;
+  grid-row: 1;
+  margin: 0;
+}
+
+.biography {
+  grid-column: 2;
+  grid-row: 1 / 3;
+  min-width: 0;
 }
 
 /* Headshot */
 .headshot {
+  display: block;
   width: 243px;
+  max-width: 100%;
+  height: auto;
   border: 0.3px solid;
-  margin-left: 0px;
-  margin-right: 50px;
-  float: left;
+  margin: 0;
 }
 
 /* Button container */
 .button-container {
-  display: inline-block;
+  grid-column: 1;
+  grid-row: 2;
+  display: block;
 }
 
 /* Section headings */
@@ -91,11 +123,11 @@ a:active {
 /* Buttons */
 .button-13 {
   background-color: #fff;
-  border: 1px solid navy;
+  border: 1px solid var(--accent-color);
   border-radius: 3px;
   box-shadow: rgba(113, 113, 113, .5) 0 0 0 0;
   box-sizing: border-box;
-  color: navy;
+  color: var(--accent-color);
   cursor: pointer;
   display: inline-block;
   font-family: "Amazon Ember",sans-serif;
@@ -114,13 +146,135 @@ a:active {
 }
 
 .button-13:hover {
-  background-color: rgba(227, 227, 247, 0.8);
+  background-color: var(--accent-hover-background);
   font-size: 13px;
   font-weight: bold;
 }
 
 .button-13:focus {
-  border-color: #008296;
+  border-color: var(--accent-hover-color);
   box-shadow: rgba(113, 113, 113, .5) 5px 5px 5px 5px;
   outline: 0;
+}
+
+/* Phone layout */
+@media (max-width: 767px) {
+  body {
+    font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+    font-size: 16px;
+    line-height: 1.6;
+    word-spacing: normal;
+  }
+
+  #quarto-content {
+    display: block;
+  }
+
+  #quarto-document-content {
+    margin: 0 auto;
+    padding: 28px 24px 40px;
+    max-width: 600px;
+    min-width: 0;
+  }
+
+  .desktop-spacer {
+    display: none;
+  }
+
+  .name-container {
+    margin-bottom: 24px;
+  }
+
+  .name-text {
+    font-size: 32px;
+    line-height: 1.25;
+  }
+
+  .profile {
+    display: block;
+  }
+
+  .portrait {
+    margin-bottom: 22px;
+  }
+
+  .headshot {
+    display: block;
+    width: 216px;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  .biography > p {
+    margin-bottom: 16px;
+  }
+
+  .button-container {
+    display: block;
+    margin-top: 22px;
+    margin-bottom: 32px;
+  }
+
+  .button-container > p {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin: 0;
+  }
+
+  .button-container a {
+    flex: 0 1 112px;
+    max-width: 112px;
+  }
+
+  .button-13 {
+    width: 100%;
+    height: 32px;
+    font-size: 13px;
+    line-height: 1.2;
+  }
+
+  .button-13:hover {
+    font-size: 13px;
+  }
+
+  .profile-and-research > section {
+    margin-top: 30px;
+  }
+
+  .profile-and-research > section > h3 {
+    margin-top: 0;
+    margin-bottom: 18px;
+    line-height: 1.35;
+  }
+
+  .section-heading {
+    font-size: 18px;
+    line-height: inherit;
+  }
+
+  .profile-and-research > section > ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+
+  .profile-and-research > section > ul > li {
+    margin-bottom: 24px;
+  }
+
+  .profile-and-research > section > ul > li:last-child {
+    margin-bottom: 0;
+  }
+
+  .profile-and-research > section > ul > li > a:first-child {
+    display: block;
+    margin-bottom: 6px;
+    line-height: 1.45;
+  }
+
+  .profile-and-research > section > ul > li > a + br {
+    display: none;
+  }
 }
